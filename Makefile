@@ -10,3 +10,7 @@ all:
 		-V geometry:margin=1cm \
 		-V fontsize=8pt
 	rm the-dumpster-pdf.md
+
+git:
+	git commit -a
+	git push
