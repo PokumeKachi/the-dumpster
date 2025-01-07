@@ -1,0 +1,4108 @@
+# WORD^ Word
+# SEC^ Section
+
+# (FAMILIAL / MONO / THE / GROUPED / LOAN)
+
+# GR^ Group
+# GR*^ Group (Show the group name)
+# IPA^ Phonetics
+# DEF^Type^ Definition 
+# EX^ Example.
+
+WORD^ Jagged
+SEC^ GROUPED
+GR^ adjid
+IPA^ 'dʒæɡ.ɪd
+DEF^adj^ Rough with sharp edges
+EX^ Be careful of that *jagged* piece of glass on the floor.
+
+WORD^
+GR^ *DUCT
+
+WORD^ Crooked
+WORD^ Rugged
+WORD^ Ragged
+
+WORD^ Beneficient
+WORD^ Maleficient
+WORD^ Benevolent
+WORD^ Malevolent
+WORD^ Benign
+WORD^ Malign
+WORD^ Benign
+
+SEC^ GROUPED
+GR^ Benign
+IPA^ bɪˈnaɪn
+DEF^adj^ Pleasant and kind
+EX^ She had a *benign* smile that made everyone feel welcome.
+DEF^adj^ [Of tumors] Not cancer
+EX^ The biopsy results showed that the tumor was *benign* and not life-threatening.
+
+WORD^ Benignity
+SEC^ GROUPED
+GR^ Benign
+IPA^ bɪˈ.nɪg.nɪ.ti
+
+WORD^ Benignant
+SEC^ GROUPED
+GR^ Benign
+IPA^ bɪˈnɪɡ.nənt
+DEF^adj^ 
+EX^ 
+
+WORD^ Benignancy
+SEC^ GROUPED
+GR^ Benign
+IPA^ 
+
+WORD^ Divert
+WORD^ Revert
+WORD^ Avert
+WORD^ Invert
+WORD^ Convert
+
+WORD^ Constraint
+WORD^ Restraint
+WORD^ Constrict
+WORD^ Restrict
+
+SEC^ FAMILIAL
+GR*^ Grace
+
+SEC^ FAMILIAL
+GR*^ Dread
+
+SEC^ FAMILIAL
+GR*^ Redeem
+
+SEC^ FAMILIAL
+GR*^ Equilibrium
+
+SEC^ FAMILIAL
+GR*^ Equal
+
+WORD^ Equipoise
+SEC^ FAMILIAL
+GR*^ Equal
+IPA^ 'ek.wɪ.pɔɪz
+DEF^n^ A situation in which things are perfectly balanced
+EX^ There is in the artist's landscapes a delicate *equipoise between* the natural and the man-made.
+EX^ If the evidence for and against the defendant's guilt is *in equipoise*, then the burden of proof is on the prosecution.
+
+SEC^ FAMILIAL
+GR*^ Equity
+
+SEC^ GROUPED
+GR^ Laud
+WORD^ Laudatory
+
+SEC^ FAMILIAL
+GR*^ Determine
+
+SEC^ FAMILIAL
+GR*^ Office
+
+SEC^ FAMILIAL
+GR*^ Beguile
+
+WORD^ Perturb
+WORD^ Perturbation
+WORD^ Unperturbed
+WORD^ Imperturbable
+
+WORD^ Vile
+Vilify
+Revile
+Villain
+WORD^ Lay lie lain laid
+
+WORD^ Interoperability
+SEC^ FAMILIAL
+GR*^ Operate
+
+WORD^ Indelible
+SEC^ FAMILIAL
+GR*^ Delete
+
+WORD^ Downtroden
+SEC^ FAMILIAL
+GR*^ Tread
+
+WORD^ Anoxia
+SEC^ FAMILIAL
+GR*^ Oxygen
+
+WORD^ Indubitable
+SEC^ FAMILIAL
+GR*^ Doubt
+
+WORD^ Redoubtable
+SEC^ FAMILIAL
+GR*^ Doubt
+
+WORD^ Portend
+SEC^ FAMILIAL
+GR*^ Tend
+
+WORD^ Amorphous
+SEC^ FAMILIAL
+GR*^ Morph
+
+WORD^ Polymorphous
+SEC^ FAMILIAL
+GR*^ Morph
+
+WORD^ Demean
+SEC^ FAMILIAL
+GR*^ Mean
+
+WORD^ Demeanor
+SEC^ FAMILIAL
+GR*^ Mean
+
+WORD^ Misdemeanor
+SEC^ FAMILIAL
+GR*^ Mean
+
+WORD^ Culpable
+SEC^ FAMILIAL
+GR*^ Culprit
+
+WORD^ Exculpate
+SEC^ FAMILIAL
+GR*^ Culprit
+
+WORD^ Inculpate
+SEC^ FAMILIAL
+GR*^ Culprit
+
+WORD^ Extraneous
+SEC^ FAMILIAL
+GR*^ Extra
+
+WORD^ Overarching
+SEC^ FAMILIAL
+GR*^ Arch
+
+WORD^ Teleprompter
+SEC^ FAMILIAL
+GR*^ Prompt
+
+WORD^ Flair
+WORD^ Fragrance
+
+WORD^ Commandeer
+SEC^ FAMILIAL
+GR*^ Command
+
+WORD^ Dietetics
+SEC^ FAMILIAL
+GR*^ Diet
+
+WORD^ Foreclose
+SEC^ FAMILIAL
+GR*^ Close
+
+WORD^ Coalface
+SEC^ FAMILIAL
+GR*^ Coal
+
+WORD^ Hypoallergenic
+SEC^ FAMILIAL
+GR*^ Allergy
+
+WORD^ Elephantine
+SEC^ FAMILIAL
+GR*^ Elephant
+
+WORD^ Drawdown
+SEC^ FAMILIAL
+GR*^ Draw
+
+WORD^ Forbear
+SEC^ FAMILIAL
+GR*^ Bear
+
+WORD^ Back-burner
+SEC^ FAMILIAL
+GR*^ Burn
+
+WORD^ Superintendent
+SEC^ FAMILIAL
+GR*^ Tend
+
+WORD^ Parlay
+SEC^ FAMILIAL
+GR*^ Lay
+
+WORD^ Tearaway
+SEC^ FAMILIAL
+GR*^ Tear
+
+WORD^ Lachrymose
+SEC^ FAMILIAL
+GR*^ Cry
+
+WORD^ Bilabial
+SEC^ FAMILIAL
+GR*^ Lip
+
+WORD^ Rhinoplasty
+SEC^ FAMILIAL
+GR*^ Nose
+
+WORD^ Dold
+WORD^ Doldrums
+
+WORD^ Flippant
+WORD^ Homage
+WORD^ Copper-bottomed
+WORD^ Trigger-happy
+WORD^ Vivace
+WORD^ Polyglot
+WORD^ Convivial
+WORD^ Happenstance
+WORD^ Smolder
+WORD^ Infomercial
+WORD^ Roughshod
+WORD^ Extricate
+WORD^ Hors d'oeuvres
+WORD^ Prudent
+WORD^ Dressing-down
+WORD^ Shipshape
+WORD^ Carcinoma
+WORD^ Rendezvous
+WORD^ Atone
+WORD^ Handout
+WORD^ Primogeniture
+WORD^ Escalate
+WORD^ Deprave
+WORD^ Placate
+WORD^ Shrill
+WORD^ Noble
+WORD^ Scurry
+WORD^ Ascribe
+WORD^ Creed
+WORD^ Credulity
+WORD^ Swindle
+WORD^ Rote
+WORD^ Precocious
+WORD^ Cantankerous
+WORD^ Endogenous
+WORD^ Underdog
+WORD^ Channel
+WORD^ Ventilate
+WORD^ Paradigm
+WORD^ Obnoxious
+WORD^ Epitome
+WORD^ Emblem
+WORD^ Caviar
+WORD^ Navel
+WORD^ Navel-gazing
+WORD^ Cantankerous
+WORD^ Filibuster
+WORD^ Severance
+WORD^ Compunction
+WORD^ Marshlands
+WORD^ Pellucid
+WORD^ Oblique
+WORD^ Poise
+WORD^ Coalition
+WORD^ Titillate
+WORD^ Ineluctable
+WORD^ Desiccate
+WORD^ Abnegate
+WORD^ Subpoenaed
+WORD^ Ribbon
+WORD^ Lackluster
+WORD^ Decimate
+WORD^ Wean
+WORD^ Lavish
+WORD^ Ravish
+WORD^ Muddle
+WORD^ Famish
+WORD^ Caliber
+WORD^ Dignitary
+WORD^ Consul
+WORD^ Doughty
+WORD^ Haughty
+WORD^ Eavesdrop
+WORD^ Pleb
+WORD^ Bespoke
+WORD^ Condone
+WORD^ Sodomy
+WORD^ Convolute
+WORD^ Cull
+WORD^ Sleight
+WORD^ Light-fingered
+WORD^ Guv'nor
+WORD^ Loquacious
+WORD^ Stupendous
+WORD^ Coax
+WORD^ Fiendish
+WORD^ Onerous
+WORD^ Devious
+WORD^ Byzantine
+WORD^ Exotica
+WORD^ Assemblage
+WORD^ Foundational
+WORD^ Fightback
+WORD^ Partake
+WORD^ Detox
+WORD^ Embark
+WORD^ Next of kin
+WORD^ Epiphany
+WORD^ Concussion
+WORD^ Rank
+WORD^ Tête-à-tête
+WORD^ Alias
+WORD^ Wager
+WORD^ Resonate
+WORD^ Mercurial
+WORD^ Prig
+WORD^ Pomp
+WORD^ Residue
+WORD^ Residual
+WORD^ Dire
+WORD^ Trite
+WORD^ Poultry
+WORD^ Fleet
+WORD^ Alacrity
+WORD^ Sordid
+WORD^ Spick
+WORD^ Span
+WORD^ Render
+WORD^ Splendor
+WORD^ Aviation
+WORD^ Critique
+WORD^ Toil
+WORD^ Deviation
+WORD^ Per se
+WORD^ Emissary
+WORD^ Perchance
+WORD^ Laceration
+WORD^ Nuance
+WORD^ Servile
+WORD^ Cliche
+WORD^ Pan
+WORD^ Clique
+WORD^ Pacify
+WORD^ Impetuous
+WORD^ Anyhow
+WORD^ Fratern
+WORD^ Equate
+WORD^ Infiltrate
+WORD^ Treck
+WORD^ Prune
+WORD^ Seep
+WORD^ Slob
+WORD^ Countenance
+WORD^ Romp
+WORD^ Taint
+WORD^ Nexus
+WORD^ Enigmatic
+WORD^ Appease
+WORD^ Ransack
+WORD^ Sack
+WORD^ Tumult
+WORD^ Endeavor
+WORD^ Collude
+WORD^ Prairie
+WORD^ Outreach
+WORD^ Eviscerate
+WORD^ Malleable
+WORD^ Quota
+WORD^ Whit
+WORD^ Elucidate
+WORD^ Berth
+WORD^ Pious
+WORD^ Scavenge
+WORD^ Sumptuous
+WORD^ Mundane
+WORD^ Scrumptious
+WORD^ Pincushion
+WORD^ Verbatim
+WORD^ Holistic
+WORD^ Skimp
+WORD^ Exonerate
+WORD^ Retaliate
+WORD^ Perterb
+WORD^ Squeamish
+WORD^ Spur
+WORD^ Spurt
+WORD^ Sput
+WORD^ Assail
+WORD^ Mete
+WORD^ Mediate
+WORD^ Boycott
+WORD^ Shrewd
+WORD^ Saga
+WORD^ Sagacious
+WORD^ Ostentatious
+WORD^ Gregarious
+WORD^ Nefarious
+WORD^ Absolve
+WORD^ Voracious
+WORD^ Vociferous
+WORD^ Recline
+WORD^ Indignant
+WORD^ Indignation
+WORD^ Delineate
+WORD^ Comeuppance
+WORD^ Hangover
+WORD^ Mellow
+WORD^ Gourmet
+WORD^ Decadent
+WORD^ Fervor
+WORD^ Fervent
+WORD^ Fervid
+WORD^ Ardor
+WORD^ Ardent
+WORD^ Ardency
+WORD^ Ecstasy
+WORD^ Aesthetics
+WORD^ Devout
+WORD^ Assiduous
+WORD^ Credulous
+WORD^ Sedulous
+WORD^ Perverse
+WORD^ Pilfer
+WORD^ Rudiment
+WORD^ Progeny
+WORD^ Garment
+WORD^ Feline
+WORD^ Hurdle
+WORD^ Flub
+WORD^ Insidious
+WORD^ Dissident
+WORD^ Recalcitrant
+WORD^ Palatable
+WORD^ Bouts
+WORD^ Torpor
+WORD^ Vehement
+WORD^ Stigma
+WORD^ Particulate
+WORD^ Noir
+WORD^ Hog
+WORD^ Hub
+WORD^ Embryo
+WORD^ Faux pas
+WORD^ Inexorable
+WORD^ Ideation
+WORD^ Prong
+WORD^ Loom
+WORD^ Avail
+WORD^ Fledge
+WORD^ Horde
+WORD^ Tend
+WORD^ Whereby
+WORD^ Wherein
+WORD^ Rein
+WORD^ Thereafter
+WORD^ Tend
+WORD^ Insofar
+WORD^ Legion
+WORD^ Continuator
+WORD^ Disdain
+WORD^ Dainty
+WORD^ Dandy
+WORD^ Caliber
+WORD^ Scour
+WORD^ Scourge
+WORD^ Thorn
+WORD^ Piecework
+WORD^ Capricious
+WORD^ Peril
+WORD^ Perilous
+WORD^ Treachery
+WORD^ Treacherous
+WORD^ Hawthorn
+WORD^ Wed
+WORD^ Thaw
+WORD^ Purvey
+WORD^ Full-back
+WORD^ Manuscript
+WORD^ Trawl
+WORD^ Mesh
+WORD^ Haul
+WORD^ Forage
+WORD^ Foliage
+WORD^ Climinate
+WORD^ Shod
+WORD^ Dismal
+WORD^ Levy
+WORD^ Adage
+WORD^ Altruism
+WORD^ Truism
+WORD^ Unruly
+WORD^ Unduly
+WORD^ Stagnate
+WORD^ Arboreal
+WORD^ Ruffle
+WORD^ Corrigible
+WORD^ Remedy
+WORD^ Domineer
+WORD^ Cask
+WORD^ Disarmament
+WORD^ Prominent
+WORD^ Eminent
+WORD^ Antiquate
+WORD^ Dubious
+WORD^ Woe
+WORD^ Plantation
+WORD^ Unspaced
+WORD^ Tentative
+WORD^ Overture
+WORD^ Vet
+WORD^ Acclimatization
+WORD^ Hominid
+WORD^ Rear
+WORD^ Regurgitate
+WORD^ Cacophony
+WORD^ Percolate
+WORD^ Transfuse
+WORD^ Transude
+WORD^ Exude
+WORD^ Collate
+WORD^ Excruciate
+WORD^ Marsupial
+WORD^ Runaway
+WORD^ Shrivel
+WORD^ Cohort
+WORD^ Dement
+WORD^ Antsy
+WORD^ Febrile
+WORD^ Propagate
+WORD^ Diffraction
+WORD^ Teem
+WORD^ Libel
+WORD^ Garrison
+WORD^ Interplay
+WORD^ Galvanize
+WORD^ Intermix
+WORD^ Luxatarian
+WORD^ Pigment
+WORD^ Figment
+WORD^ Masticate
+WORD^ Vex
+WORD^ Chide
+WORD^ Inhibit
+WORD^ Rebuke
+WORD^ Berate
+WORD^ Belligerent
+WORD^ Repugnant
+WORD^ Vocation
+WORD^ Mirth
+WORD^ Recluse
+WORD^ Repertoire
+WORD^ Parsimonious
+WORD^ Lofty
+WORD^ Hoi polloi
+WORD^ Double take
+WORD^ Levity
+WORD^ Commonable
+WORD^ Administer
+WORD^ Introspective
+WORD^ Amoral
+WORD^ Autocratic
+WORD^ Livery
+WORD^ Abhor
+WORD^ Rigor
+WORD^ Vigor
+WORD^ Rejuvenate
+WORD^ Bashful
+WORD^ Dormice
+WORD^ Meek
+WORD^ Exalt
+WORD^ Proliferate
+WORD^ Emasculate
+WORD^ Forfeit
+WORD^ Fortify
+WORD^ Vitiate
+WORD^ Homogenize
+WORD^ Reverberate
+WORD^ Loggerheads
+WORD^ Backlog
+WORD^ Masquerade
+WORD^ Impetus
+WORD^ Sedate
+WORD^ Visceral
+WORD^ Aboriginal
+WORD^ Scorch
+WORD^ Sequester
+WORD^ Radial
+WORD^ Congruent
+WORD^ Suction-cupped
+WORD^ Interlocking
+WORD^ Apparatus
+WORD^ Microcosm
+WORD^ Strap
+WORD^ Scrub
+WORD^ Meek
+WORD^ Cowed
+WORD^ Shunted
+WORD^ Stunted
+WORD^ Inasmuch
+WORD^ Whereupon
+WORD^ Premise
+WORD^ Gentrification
+WORD^ Earmark
+WORD^ Archetype
+WORD^ Barring
+WORD^ Indoctrinate
+WORD^ Drowse
+WORD^ Doze
+WORD^ Douse
+WORD^ Rouse
+WORD^ Squander
+WORD^ Defer
+WORD^ Amenable
+WORD^ Subservient
+WORD^ Servitude
+WORD^ Obeisance
+WORD^ Streamline
+WORD^ Trailblaze
+WORD^ Acerbic
+WORD^ Acrimonious
+WORD^ Ingratiate
+WORD^ Insinuate
+WORD^ Hoodwink
+WORD^ Grub
+WORD^ Anecdote
+WORD^ Lambaste
+WORD^ Reproach
+WORD^ Henchman
+WORD^ Soy
+WORD^ Equitable
+WORD^ Transient
+WORD^ Knockabout
+WORD^ Whereupon
+WORD^ Mendicant
+WORD^ Tramp
+WORD^ Vagabond
+WORD^ Vagrant
+WORD^ Upshot
+WORD^ Onset
+WORD^ Outset
+WORD^ Readily
+WORD^ Brutish
+WORD^ Declutter
+WORD^ Idyll
+WORD^ Oeuvre
+WORD^ Extol
+WORD^ Expatriate
+WORD^ Conspicuous
+WORD^ Bluster
+WORD^ Vintage
+WORD^ Viscous
+WORD^ Equitorial
+WORD^ Weather (v)
+WORD^ Simmer
+WORD^ Despondent
+WORD^ Glamor
+WORD^ Tremor
+WORD^ Fickle
+WORD^ Contraption
+WORD^ Deluge
+WORD^ Mutilate
+WORD^ Expenditure
+WORD^ Thwart
+WORD^ Resourceful
+WORD^ Ostensible
+WORD^ Imposture
+WORD^ Skint
+WORD^ Penurious
+WORD^ Insolvent
+WORD^ Gimp
+WORD^ Pauper
+WORD^ Destitute
+WORD^ Impecunious
+WORD^ Innocuous
+WORD^ Itinerant
+WORD^ Preposterous
+WORD^ Asphyxiate
+WORD^ Usher
+WORD^ Ayup
+WORD^ Pedestal
+WORD^ Haywire
+WORD^ Foil
+WORD^ Pervade
+WORD^ Substitutionary
+WORD^ Affluent
+WORD^ Resource
+WORD^ Juggernaut
+WORD^ Apposite
+WORD^ Edify
+WORD^ Plunge
+WORD^ Pugnacious
+WORD^ Venal
+WORD^ Odometer
+WORD^ Disparage
+WORD^ Euphoria
+WORD^ Oblivion
+WORD^ Rake
+WORD^ Reel
+WORD^ Delirium
+WORD^ Stench
+WORD^ Groove
+WORD^ Forestry
+WORD^ Callings
+WORD^ Parable
+WORD^ Arable
+WORD^ Odoriferous
+WORD^ Ethereal
+WORD^ Efface
+WORD^ Congregate
+WORD^ Aggregate
+WORD^ Odometer
+WORD^ Tribunal
+WORD^ Apportion
+WORD^ Adamant
+WORD^ Oracy
+WORD^ Coracle
+WORD^ Captivate
+WORD^ Trance
+WORD^ Solace
+WORD^ Consolidate
+WORD^ Haught
+WORD^ Elicit
+WORD^ Reminisce
+WORD^ Valiant
+WORD^ Monastery
+WORD^ Fetter
+WORD^ Consolation
+WORD^ Desolate
+WORD^ Curtail
+WORD^ Beguile
+WORD^ Enthrall
+WORD^ Infatuate
+WORD^ Enamor
+WORD^ Rebate
+WORD^ Gratify
+WORD^ Entail
+WORD^ Judicious
+WORD^ Dopey
+WORD^ Defer
+WORD^ Curfew
+WORD^ Tarnish
+WORD^ Plateau
+WORD^ Entourage
+WORD^ Clergy
+WORD^ Commend
+WORD^ Commendable
+WORD^ Commendation
+WORD^ Commendatory
+WORD^ Mystique
+WORD^ Pallor
+WORD^ Limpid
+WORD^ Talon
+WORD^ Coven
+WORD^ Bawdy
+WORD^ Didactic
+WORD^ Cavalier
+WORD^ Veer
+WORD^ Rove
+WORD^ Ruck
+WORD^ Regent
+WORD^ Refectory
+WORD^ Fen
+WORD^ Hutch
+WORD^ Lark
+WORD^ Deficit
+WORD^ Quilt
+WORD^ Soliloquy
+WORD^ Whiplash
+WORD^ Augur
+WORD^ Oblique
+WORD^ Ergo
+WORD^ Municipal
+WORD^ Scamp
+WORD^ Svelte
+WORD^ Sylphlike
+WORD^ Lissome
+WORD^ Ponder
+WORD^ Ledge
+WORD^ Outcall
+WORD^ Miscall
+WORD^ Pine
+WORD^ Hedge
+WORD^ Skid
+WORD^ Ledger
+WORD^ Gratuitous
+WORD^ Atoll
+WORD^ Callous
+WORD^ Plight
+WORD^ Flounder
+WORD^ Ape^v
+WORD^ Wing^v
+WORD^ Breast^v
+WORD^ Frolic
+WORD^ Perch
+WORD^ Frolic
+WORD^ Meddle
+WORD^ Nettle
+WORD^ Peroxide
+WORD^ Peroxisome
+WORD^ Roost
+WORD^ Rod
+WORD^ Floodlight
+WORD^ Phosphorescence
+WORD^ Eccentric
+WORD^ Licentious
+WORD^ Lunacy
+WORD^ Perfidious
+WORD^ Fluorescence
+WORD^ Impunity
+WORD^ Tax avoidance
+WORD^ Incandescence
+WORD^ Malice
+WORD^ Offhandedly
+WORD^ Haphazard
+WORD^ Bedraggle
+WORD^ Newfangle
+WORD^ Credential
+WORD^ Shamble
+WORD^ Shambolic
+WORD^ Polemics
+WORD^ Caustic
+WORD^ Gainsaying
+WORD^ Coronation
+WORD^ Opalescence
+WORD^ Ordeal
+WORD^ Fortuitous
+WORD^ Circuitous
+WORD^ Felicitous
+WORD^ Ordain
+WORD^ Infallible
+WORD^ Lumber
+WORD^ Indefatigable
+WORD^ Opaque
+WORD^ Denier
+WORD^ Baize
+WORD^ Bureaucracy
+WORD^ Aristocracy
+WORD^ Toil
+WORD^ Plump
+WORD^ Rotund
+WORD^ Hospitality
+WORD^ Granule
+WORD^ Secrete
+WORD^ Bound
+WORD^ Tiresome
+WORD^ Ailment
+WORD^ Fondue
+WORD^ Scout
+WORD^ Taciturn
+WORD^ Tacit
+WORD^ Blinker
+WORD^ Incubate
+WORD^ Askance
+WORD^ Kink
+WORD^ Reservoir
+WORD^ Chitter
+WORD^ Segue
+WORD^ Whiff
+WORD^ Carcass
+WORD^ Scowl
+WORD^ Quintessence
+WORD^ Rancid
+WORD^ Clomp
+WORD^ Ablate
+WORD^ Flounce
+WORD^ Shackle
+WORD^ Limp
+WORD^ Naught
+WORD^ Knead
+WORD^ Emblazon
+WORD^ Transpire
+WORD^ Complicit
+WORD^ Celibate
+WORD^ Accomplice
+WORD^ Crook
+WORD^ Corroborate
+WORD^ Scoop
+WORD^ Chump
+WORD^ Muck
+WORD^ Romp
+WORD^ Cavort
+WORD^ Frisk
+WORD^ Vapor
+WORD^ Evaporate
+WORD^ Precipitate
+WORD^ Fiddle
+WORD^ Fiddly
+WORD^ Splurge
+WORD^ Menial
+WORD^ Gambol
+WORD^ Disport
+WORD^ Bolster
+WORD^ Sublunary
+WORD^ Muggy
+WORD^ Maggot
+WORD^ Boisterous
+WORD^ Rambunctious
+WORD^ Endeavor
+WORD^ Partible
+WORD^ Proclivity
+WORD^ Stride
+WORD^ Bestride
+WORD^ Lackey
+WORD^ Stint
+WORD^ Incline
+WORD^ Prone
+WORD^ Relish
+WORD^ Covert
+WORD^ Misfit
+WORD^ Mural
+WORD^ Wade
+WORD^ Wane
+WORD^ Stencil
+WORD^ Sterling
+WORD^ Facet
+WORD^ Facade
+WORD^ Insurgent
+WORD^ Expound
+WORD^ Totes
+WORD^ Vain
+WORD^ Sulk
+WORD^ Bitterly
+WORD^ Hackney cab
+WORD^ Buckboard
+WORD^ Stagecoach
+WORD^ Bandwagon
+WORD^ Mug
+WORD^ Light-headed
+WORD^ Weak-willed
+WORD^ Lethargy
+WORD^ Imbitter
+WORD^ Tug
+WORD^ Heartstring
+WORD^ Snob
+WORD^ Haze
+WORD^ Blur
+WORD^ Amok
+WORD^ Ajar
+WORD^ Agape
+WORD^ Alight
+WORD^ Reimburse
+WORD^ Jingoism
+WORD^ Avarice
+WORD^ Squander
+WORD^ Soar
+WORD^ Magnanimity
+WORD^ Libel
+WORD^ Overcast
+WORD^ Authoritative
+WORD^ Authoritarian
+WORD^ Infantile
+WORD^ Outlandish
+WORD^ Wayside
+WORD^ Makeshift
+WORD^ Mainstay
+WORD^ Distend
+WORD^ Swimmingly
+WORD^ Daunt
+WORD^ Dauntless
+WORD^ Insatiable
+WORD^ Keepsake
+WORD^ Denude
+WORD^ Chronology
+WORD^ Anachronistic
+WORD^ Laborious
+WORD^ Desensitize
+WORD^ Contempt
+WORD^ Nudge
+WORD^ Peg
+WORD^ Decanter
+WORD^ Conducive
+WORD^ Cherry-pick
+WORD^ Substandard
+WORD^ Par
+WORD^ Subpar
+WORD^ Quirky
+WORD^ Orthodox
+WORD^ Sanguine
+WORD^ Consanguineous
+WORD^ Vouchsafe
+WORD^ Fantasmagorical
+WORD^ Abreast
+WORD^ Bane
+WORD^ Icky
+WORD^ Divisive
+WORD^ Hegemony
+WORD^ Wither
+WORD^ Wuther
+WORD^ Primeval
+WORD^ Apt
+WORD^ Tipple
+WORD^ Inundate
+WORD^ Chuff
+WORD^ Reconvene
+WORD^ Non-Committal
+WORD^ Bereavement
+WORD^ Afoot
+WORD^ Manor
+WORD^ Eggcorn
+WORD^ Foreclosure
+WORD^ Respite
+WORD^ Quasiscience
+WORD^ Prognosticative
+WORD^ Harebrained
+WORD^ Loggerheads
+WORD^ Timely
+WORD^ Brisk
+WORD^ Trot
+WORD^ Romp
+WORD^ Rummage
+WORD^ Souk
+WORD^ Tenterhooks
+WORD^ Ebb
+WORD^ Jabber
+WORD^ Lunacy
+WORD^ Pristine
+WORD^ Accede
+WORD^ Egrecious
+WORD^ Contraband
+WORD^ Urn
+WORD^ Chuff
+WORD^ Crackle
+WORD^ Clomp
+WORD^ Raucous
+WORD^ Staccato
+WORD^ Mellifluous
+WORD^ Tinnily
+WORD^ Remunerate
+WORD^ Renumerate
+WORD^ Armageddon
+WORD^ Amorous
+WORD^ Bough
+WORD^ Somber
+WORD^ Poignant
+WORD^ Bat
+WORD^ Permeate
+WORD^ Permeable
+WORD^ Mordant
+WORD^ Doting
+WORD^ Vigilant
+WORD^ Askance
+WORD^ Fracas
+WORD^ Conscript
+WORD^ Discombobulate
+WORD^ Instigate
+WORD^ Labyrinth
+WORD^ Hides
+WORD^ Goldleaf
+WORD^ Genesis
+WORD^ Progeny
+WORD^ Husbandry
+WORD^ Parchment
+WORD^ Gruelling
+WORD^ Sly
+WORD^ Rarefy
+WORD^ Pragmatic
+WORD^ Amnesty
+WORD^ Trajectory
+WORD^ Oust
+WORD^ Spearhead
+WORD^ Demonize
+WORD^ Demoniac
+WORD^ Demoniacal
+WORD^ Unilateral
+WORD^ Textuality
+WORD^ Intertextuality
+WORD^ Fancy-free
+WORD^ Dilatedly
+WORD^ Scoff
+WORD^ Voluptuous
+WORD^ Dwindle
+WORD^ Haunt
+WORD^ Sludge
+WORD^ Trudge
+WORD^ Limp
+WORD^ Blood-shod
+WORD^ Five-nines
+WORD^ Hoot
+WORD^ Smothering
+WORD^ Cud
+WORD^ Froth
+WORD^ Deign
+WORD^ Renumerate
+WORD^ Enumerate
+WORD^ Enfeeble
+WORD^ Encrustation
+WORD^ Astringent
+WORD^ Emblazened
+WORD^ Honorarium
+WORD^ Snare
+WORD^ Summarily
+WORD^ Undermanned
+WORD^ Edgy
+WORD^ Rubbish
+WORD^ Veil
+WORD^ Power-brokers
+WORD^ Pique
+WORD^ Outlet
+WORD^ Reprieve
+WORD^ Tout
+WORD^ Trepidation
+WORD^ Intrepid
+WORD^ Espouse
+WORD^ Spin-off
+WORD^ Agenda
+WORD^ Opt
+WORD^ Affirm
+WORD^ Backlash
+WORD^ Punctuated
+WORD^ Incite
+WORD^ Defile
+WORD^ Ire
+WORD^ Monotony
+WORD^ Autonomy
+WORD^ Taxonomy
+WORD^ Demography
+WORD^ Slither
+WORD^ Slink
+WORD^ Strut
+WORD^ Aggrieve
+WORD^ Annul
+WORD^ Repeal
+WORD^ Endow
+WORD^ Hereditary
+WORD^ Ostracize
+WORD^ Immaterial
+WORD^ Bilateral
+WORD^ Volatile
+WORD^ Traverse
+WORD^ Infantilize
+WORD^ Herald
+WORD^ Pneumatic
+WORD^ Contraption
+WORD^ Upfront
+WORD^ Steampunk
+WORD^ Punk
+WORD^ Indispensable
+WORD^ Chute
+WORD^ Junction
+WORD^ Realm
+WORD^ Allude
+WORD^ Induct
+WORD^ Watchword
+WORD^ Elate
+WORD^ Engross
+WORD^ Besot
+WORD^ Bequest
+WORD^ Spores
+WORD^ Squalid
+WORD^ Demonstrably
+WORD^ Replete
+WORD^ Germinate
+WORD^ Afflict
+WORD^ Gild
+WORD^ Ivory
+WORD^ Nonchalant
+WORD^ Abridge
+WORD^ Expurgate
+WORD^ Enervate
+WORD^ Palmar
+WORD^ Vaudeville
+WORD^ Mintrelsy
+WORD^ Thermic
+WORD^ Conduct
+WORD^ Populist
+WORD^ Glutted
+WORD^ Creentious
+WORD^ Seethe
+WORD^ Debunk
+WORD^ Unputdownable
+WORD^ Boast
+WORD^ Jubilation
+WORD^ Extradition
+WORD^ Litany
+WORD^ Humdrum
+WORD^ Gnarl
+WORD^ Proactive
+WORD^ Jaded
+WORD^ Pundit
+WORD^ Slate
+WORD^ Gestapo
+WORD^ Forthcoming
+WORD^ Atrophy
+WORD^ Inert
+WORD^ Forlorn
+WORD^ Invoke
+WORD^ Fondle
+WORD^ Substantial
+WORD^ Substantive
+WORD^ Dichotomy
+WORD^ Civic
+WORD^ Lam
+WORD^ Sway
+WORD^ Effectual
+WORD^ Sanctimonious
+WORD^ Sanction
+WORD^ Decree
+WORD^ Dredge
+WORD^ Thresh
+WORD^ Zonk
+WORD^ Hefty
+WORD^ Swerve
+WORD^ Flimsy
+WORD^ Agenda
+WORD^ Shrub
+WORD^ Inane
+WORD^ Escapade
+WORD^ Bigtime
+WORD^ Luge
+WORD^ Brute
+WORD^ Aspirate
+WORD^ Tariff
+WORD^ Harp
+WORD^ Snoop
+WORD^ Sheepish
+WORD^ Miscontru
+WORD^ Strenuous
+WORD^ Twinge
+WORD^ Gardenia
+WORD^ Arrowroot
+WORD^ Sedge
+WORD^ Flaunt
+WORD^ Flutter
+WORD^ Transfix
+WORD^ Trodden
+WORD^ Well-trodden
+WORD^ Belching
+WORD^ Thicket
+WORD^ Emanate
+WORD^ Impugn
+WORD^ Tirade
+WORD^ Klutz
+WORD^ Addle
+WORD^ Embalm
+WORD^ Leeway
+WORD^ Jot
+WORD^ Jut
+WORD^ Caliber
+WORD^ Visce
+WORD^ Churn
+WORD^ Roil
+WORD^ Accommodating
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ 
+WORD^ Formulate
+WORD^ Imminent
+WORD^ Leatherette
+WORD^ Bereft
+WORD^ Pliant
+WORD^ Chargé d'af·faires
+WORD^ Furrow
+WORD^ Stammer
+WORD^ Solicit
+WORD^ Falter
+WORD^ Proficient
+WORD^ Interlace
+WORD^ Defiance
+WORD^ Hedge
+WORD^ Intersperse
+WORD^ Pretext
+WORD^ Dew
+WORD^ Solemn
+WORD^ Porch
+WORD^ Threadbare
+WORD^ Pestle
+WORD^ Sorrel
+WORD^ Mangostern
+WORD^ Spurn
+WORD^ Diatribe
+WORD^ Brigade
+WORD^ Fearmonger
+WORD^ Ramification
+WORD^ Gland
+WORD^ Circa
+WORD^ Desirous
+WORD^ Riverine
+WORD^ Ephemeral
+WORD^ Rejig
+WORD^ Dilettante
+WORD^ Irascible
+WORD^ Exemplary
+WORD^ Glisten
+WORD^ Expropriate
+WORD^ Extort
+WORD^ Excoriate
+WORD^ Besmirch
+WORD^ Peruse
+WORD^ Hackles
+WORD^ Nip
+WORD^ Flank
+WORD^ Rebuttal
+WORD^ Lodge
+WORD^ Bask
+WORD^ Macular
+WORD^ Churlish
+WORD^ Awning
+WORD^ Performative
+WORD^ Curmudgeon
+WORD^ Fractious
+WORD^ Crotchety
+WORD^ Ricochet
+WORD^ Waspish
+WORD^ Petulant
+WORD^ Bib
+WORD^ Shun
+WORD^ Tantamount
+WORD^ Inroad
+WORD^ Meander
+WORD^ Petrify
+WORD^ Ballistic
+WORD^ Proximity
+WORD^ Vicious
+WORD^ Vicinity
+WORD^ Zoonotic
+WORD^ Scamper
+WORD^ Shred
+WORD^ Pleat
+WORD^ Reminisce
+WORD^ Recollect
+WORD^ Derelict
+WORD^ Decrepit
+WORD^ Trashed
+WORD^ Rotten
+WORD^ Page-turner
+WORD^ Cast-off
+WORD^ Clement
+WORD^ Inclemency
+WORD^ Renascent
+WORD^ En suite
+WORD^ Analgesic
+WORD^ Obstetrician
+WORD^ Posh
+WORD^ Psychiatry
+WORD^ Therapeutic
+WORD^ Chiefly
+WORD^ Pantomime
+WORD^ Expanse
+WORD^ Agitate
+WORD^ Lithograph
+WORD^ Concoct
+WORD^ Synthesize
+WORD^ Frosted
+WORD^ Pane
+WORD^ Accord
+WORD^ Sinuous
+WORD^ Nouveau
+WORD^ Stint
+WORD^ Virtuosity
+WORD^ Drapery
+WORD^ Voluminous
+WORD^ Hackle
+WORD^ Attitudinal
+WORD^ Absent
+WORD^ Symbiotic
+WORD^ Credence
+WORD^ Entity
+WORD^ Pronto
+WORD^ Weather^adj
+WORD^ Pester
+WORD^ Badger
+WORD^ Anguish
+WORD^ Vestige
+WORD^ Sterilize
+WORD^ Sterile
+WORD^ Fortitude
+WORD^ Disputatious
+WORD^ Dexterous/Dextrous
+WORD^ Bombastic
+WORD^ Delimit
+WORD^ Reign
+WORD^ Diffident
+WORD^ Insipid
+WORD^ Obtrusive
+WORD^ Preliminary
+WORD^ Arbitrary
+WORD^ Grain
+WORD^ Contort
+WORD^ Writhe
+WORD^ Dredge
+WORD^ Trove
+WORD^ Bounty
+WORD^ Weary
+WORD^ Postmartum
+WORD^ Chaff
+WORD^ Jink
+WORD^ Jock
+WORD^ Blunch
+WORD^ Transformational
+WORD^ Sabbatical
+WORD^ Diametric
+WORD^ Forefront
+WORD^ Plethora
+WORD^ Participatory
+WORD^ Momentous
+WORD^ Snooze
+WORD^ Vogue
+WORD^ Glutton
+WORD^ Fob
+WORD^ Estrange
+WORD^ Whereabouts
+WORD^ Roundabout
+WORD^ Sideline
+WORD^ Smitten
+WORD^ Backdrop
+WORD^ Wayside
+WORD^ Scrounge
+WORD^ Scrimp
+WORD^ Clench
+WORD^ Clutch
+WORD^ Subpoena
+WORD^ Writ
+WORD^ Displace
+WORD^ Dislocate
+WORD^ Dismantle
+WORD^ Mantle
+WORD^ Mirage
+WORD^ Proxy
+WORD^ Asylum
+WORD^ Doctrinate
+WORD^ Overdraft
+WORD^ Fishery
+WORD^ Leukemia
+WORD^ Cross-fire
+WORD^ Cross-section
+WORD^ Cross-reference
+WORD^ Cross-purpose
+WORD^ Conjecture
+WORD^ Epilogue
+WORD^ Cordial
+WORD^ Constitute
+WORD^ Institute
+WORD^ Constituency
+WORD^ Arrhythmia
+WORD^ Lemur
+WORD^ Auditory
+WORD^ Timbre
+WORD^ Paucity
+WORD^ Meagre
+WORD^ Measly
+WORD^ Excise
+WORD^ Restropection
+WORD^ Discrepancy
+WORD^ Decrepit
+WORD^ Decrepitude
+WORD^ Ochreous
+WORD^ Connive
+WORD^ Embezzle
+WORD^ Entice
+WORD^ Retice
+WORD^ Tart
+WORD^ Lace
+WORD^ Motherlode
+WORD^ Subwoofer
+WORD^ Artful
+WORD^ Coalesce
+WORD^ Bedlam
+WORD^ Resplendent
+WORD^ Indolent
+WORD^ Impromptu
+WORD^ Diploma
+WORD^ Antebellum
+WORD^ Hitch
+WORD^ Examplary
+WORD^ Clout
+WORD^ Vigil
+WORD^ Gobble
+WORD^ Tardy
+WORD^ Tardiness
+WORD^ Kompromat
+WORD^ Shroud
+WORD^ Abysmal
+WORD^ Gripe
+WORD^ Rumble
+WORD^ Rubble
+WORD^ Chivalry
+WORD^ Fringe
+WORD^ Backhanded
+WORD^ Hatch
+WORD^ Silhouette
+WORD^ Evidentiary
+WORD^ Batten
+WORD^ Ramble
+WORD^ Ranch
+WORD^ Regiment
+WORD^ Fray
+WORD^ Diabolical
+WORD^ Partisan
+WORD^ Kaiser
+WORD^ Bemuse
+WORD^ Tend
+WORD^ Roster
+WORD^ Crumple
+
+WORD^ Commerce
+WORD^ Crustal
+WORD^ Pedant
+WORD^ Controvert
+WORD^ Premier
+WORD^ Jovial
+
+# TO DO ABOVE
+
+
+WORD^ Implore
+SEC^ THE
+IPA^ ɪmˈplɔːr
+DEF^v^ Ask someone to do/not do something in a sincere/emotional/determined way
+EX^ 
+
+WORD^ Vernacular
+SEC^ THE
+IPA^ vɚˈnæk.jə.lɚ
+DEF^n^ The language spoken by ordinary people in a particular country/region
+EX^ The Spanish I learned at school is very different from the local *vernacular* of this Mexican village.
+
+WORD^ Debacle
+SEC^ THE
+IPA^ dɪˈbɑː.kəl
+DEF^n^ A complete failure, especially because of bad planning/organization
+EX^ The collapse of the company was described as the greatest financial *debacle* in US history.
+
+WORD^ Dally
+SEC^ GROUPED
+GR^ Dally
+IPA^ ˈdali
+DEF^v^ To waste time or do sth slowly
+EX^ She *dallied* over her morning coffee.
+DEF^v^ Flirt
+EX^ It's cruel the way she just *dallies with* his affections.
+
+WORD^ Dalliance
+SEC^ GROUPED
+GR^ Dally
+DEF^n^ Involvement in an activity with a dallying manner
+EX^ The manager was frustrated with the team's *dalliance* during critical project deadlines.
+DEF^n^ A flirtatious relationship
+EX^ It seems likely that his *dalliance* with another woman was the real cause of their divorce.
+
+WORD^ Pandemonium
+SEC^ FAMILIAL
+GR*^ Demon
+IPA^ ˌpæn.dəˈmoʊ.ni.əm
+DEF^n^ A situation of wild & noisy disorder due to excitement/anger/fear 
+EX^ *Pandemonium* reigned in the hall as the unbelievable election results were read out.
+EX^ The teacher's absence led to *pandemonium* in the classroom, with students running around and shouting.
+EX^ During the holiday sale, the shopping mall was *in pandemonium*, with people scrambling to grab the best deals.
+
+WORD^ Quaint
+SEC^ MONO
+IPA^ kweɪnt
+DEF^adj^ Attractive because of being unusual & especially old-fashioned
+EX^ The *quaint* charm of the small town attracted many tourists.
+EX^ The village was *quaintly* decorated for the holiday season.
+EX^ The *quaintness* of the seaside cottage made it the perfect getaway.
+
+WORD^ Outing
+SEC^ FAMILIAL
+GR*^ Out
+IPA^ ˈaʊ.t̬ɪŋ
+DEF^n^ A trip taken for pleasure, lasting for a day or less
+EX^ We planned a family *outing* to the beach for this weekend.
+
+WORD^ Laminate
+SEC^ THE
+IPA^ ˈlæm.ən.ət
+DEF^v^ To cover with a thin layer of sth
+EX^ You might want to *laminate* the cards after printing to protect them.
+DEF^n^ A material made by laminating layers of the same material onto together
+EX^ Wooden skis were replaced by metal, then by plastic *laminate* and, later, carbon fibre.
+
+WORD^ Lamination
+SEC^ FAMILIAL
+GR*^ Laminate
+IPA^ ˌlamɪˈneɪʃn
+DEF^n^ The process of laminating
+EX^ ___ of the kitchen countertops not only adds durability but also enhances their aesthetic appeal.
+
+WORD^ Hump
+SEC^ MONO
+IPA^ hʌmp
+DEF^n^ A rounded protuberance on the back of some animals (e.g. camel) / A raised & rounded part of something
+EX^ The camel's *hump* stores fat which it can use as a source of energy.
+EX^ They sat down on *a hump of* cropped grass.
+DEF^v^ Carry (a heavy object) with difficulty
+EX^ He continued to *hump* cases up and down the hotel corridor.
+DEF^v^ Make hump-shaped
+EX^ He turned and *humped* his body to avoid a rope.
+
+WORD^ Stag
+SEC^ MONO
+IPA^ stæɡ
+DEF^n^ A male deer
+EX^ The majestic *stag* stood tall in the clearing, its antlers silhouetted against the morning light.
+DEF^adj [Social gatherings]^ Men-only
+EX^ It was a *stag* event, so no partners were invited.
+DEF^adv [Social gatherings]^ Without a female partner
+EX^ He decided to go *stag* to the wedding since his date had to cancel at the last minute.
+
+WORD^ Endorse
+SEC^ GROUPED
+GR^ Endorse
+IPA^ ɪn'dɔːrs
+DEF^v^ Support publicly
+EX^ She refused to *endorse* any political candidate, preferring to stay neutral.
+
+WORD^ Endorser
+SEC^ GROUPED
+GR^ Endorse
+IPA^ ɪnˈdɔːsər
+DEF^n^ Sb who endorses
+EX^ The famous athlete is a highly sought-after *endorser* for various sports brands.
+EX^ As an *endorser* of the new tech startup, she has helped raise its profile significantly.
+
+WORD^ Endorsee
+SEC^ GROUPED
+GR^ Endorse
+IPA^ endɔːˈsiː
+DEF^n^ Sb to whom a cheque/bill of exchange is made payable instead of the stated payee
+EX^ The bank had to verify the authenticity of the signature of the *endorsee* before processing the check.
+
+WORD^ Endorsement
+SEC^ GROUPED
+GR^ Endorse
+IPA^ ɪnˈdɔːrs.mənt
+DEF^n^ The act of endorsing
+EX^ The athlete's *endorsement* of the new running shoes significantly boosted sales.
+
+WORD^ Tact
+SEC^ MONO
+IPA^ tækt
+DEF^n^ The ability to say/do the right thing without upsetting sb
+EX^ He's never had much *tact* and people don't like his blunt manner.
+
+WORD^ Tactful
+SEC^ FAMILIAL
+GR*^ Tact
+IPA^ ˈtækt.fəl
+DEF^adj^ Careful not to say/do anything that could upset sb
+EX^ The manager was *tactful* when addressing the team's concerns, ensuring everyone's opinions were respected.
+EX^ It wasn't very *tactful* of you to mention his baldness.
+
+WORD^ Tactfulness
+SEC^ FAMILIAL
+GR*^ Tact
+IPA^ ˈtaktf(ə)lnəs
+DEF^n^ The quality of being tactful
+EX^ The diplomat's *tactfulness* was evident in the way he navigated the complex negotiations.
+EX^ His *tactfulness* in dealing with customer complaints earned him a reputation for excellent service.
+
+WORD^ Untactful
+SEC^ FAMILIAL
+GR*^ Tact
+IPA^ ʌnˈtækt.fəl
+DEF^adj [rarely used]^ Tactless / Not being tactful
+EX^ At that point it seemed *untactful* to remind them about the money they owed.
+EX^ The minister always managed to make a problem worse with further *untactful* remarks.
+
+WORD^ Tactless
+SEC^ FAMILIAL
+GR*^ Tact
+IPA^ ˈtækt.ləs
+DEF^adj^ Not careful about saying/doing sth that could upset sb
+EX^ It was *tactless* of you to invite his ex-girlfriend to his goddamn wedding.
+
+WORD^ Tactlessness
+SEC^ FAMILIAL
+GR*^ Tact
+IPA^ ˈtaktləsnəs
+DEF^n^ The quality of being tactless
+EX^ His *tactlessness* in dealing with customer complaints earned him a notoriety for terrible service.
+EX^ Her *tactlessness* was evident when she made an insensitive remark about the recent tragedy.
+
+WORD^ Addendum
+SEC^ FAMILIAL
+GR*^ Add
+IPA^ əˈden.dəm
+DEF^n^ Additional material added at the end of a book/document in order to correct/clarify/supplement sth
+EX^ The author included an *addendum* at the end of the book to address questions frequently raised by readers.
+
+WORD^ Would (just) as soon
+SEC^ GROUPED
+GR*^ ODD
+DEF^ Same as "Would rather" but with a weaker preference, can even be used to indicate indifference
+EX^ She *would just as soon that* we cancel the meeting if most people can't attend.
+EX^ She *would just as soon* read a book *as* watch TV.
+EX^ I *would just as soon* starve than eat there again.
+
+WORD^ Dolorous
+SEC^ FAMILIAL
+GR*^ Dole
+IPA^ ˈdoʊ.lɚ.əs
+DEF^adj [formal] [literary]^ Doleful
+EX^ The *dolorous* news of the tragedy cast a shadow over the entire community.
+
+WORD^ Silvery
+SEC^ FAMILIAL
+GR*^ Silver
+IPA^ ˈsɪl.vɚ.i
+DEF^adj^ Lookin' like silver
+EX^ The grass was *silvery* with frost.
+EX^ Her *silvery* hair shimmered in the sunlight.
+DEF^adj^ [Of sounds] Clear, pleasant and metallic 
+EX^ The wind chimes produced a *silvery* melody that was both soothing and enchanting.
+EX^ Her *silvery* laughter filled the room, bringing smiles to everyone around.
+
+WORD^ Plaintive
+SEC^ GROUPED
+GR^ Plaint
+IPA^ ˈpleɪn.t̬ɪv
+DEF^adj^ Slightly sad
+EX^ The *plaintive* tone of the song resonated deeply with those who had experienced heartbreak.
+
+WORD^ Plaintiff
+SEC^ GROUPED
+GR^ Plaint
+IPA^ ˈpleɪn.t̬ɪf
+DEF^n^ Sb making a legal complaint against sb else in court
+EX^ The *plaintiff* filed a plaint against the defendant, alleging breach of contract
+
+WORD^ Plaint
+SEC^ GROUPED
+GR^ Plaint
+IPA^ pleɪnt
+DEF^n [law]^ An official accusation/charge
+EX^ The plaintiff filed a *plaint* against the defendant, alleging breach of contract
+DEF^n [literary]^ A complaint/lamentation
+EX^ The *plaint* of the widow moved everyone at the memorial service to tears.
+
+WORD^ Doleful
+SEC^ FAMILIAL
+GR*^ Dole
+IPA^ ˈdoʊl.fəl
+DEF^adj^ Very sad
+EX^ The *doleful* melody of the violin set a somber tone for the evening.
+EX^ He gave a *doleful* sigh as he looked at the empty house.
+
+WORD^ Squire
+SEC^ MONO
+IPA^ skwaɪr
+DEF^n [archaic] [british]^ A man who owned most of the land around a village
+DEF^n^ A friendly form of address by one man to another of a higher social class
+EX^ "I don't know if all my luggage is going to fit in the back of the taxi." "Don't worry, *squire*, I'll get it in."
+DEF^v^ To take someone places
+EX^ The local historian *squires* tourists through the ancient ruins, sharing fascinating stories and historical facts.
+EX^ When his mother was recovering from surgery, he *squired* her to her physical therapy sessions and doctor's appointments.
+
+WORD^ Propense
+SEC^ GROUPED
+GR^ Propense
+IPA^ proʊˈpɛns
+DEF^adj^ Inclined/Prone
+EX^ She is *propense* to anxiety in stressful situations.
+EX^ He is *propense* to acts of kindness, always willing to help those in need.
+
+WORD^ Propensity
+SEC^ GROUPED
+GR^ Propense
+IPA^ prəˈpen.sə.t̬i
+DEF^n^ The quality of being propense to sth (usually sth bad)
+EX^ She's inherited from her father a *propensity to* talk too much.
+EX^ He's well-known for his natural *propensity* for indiscretion.
+
+WORD^ Maritime
+SEC^ THE
+IPA^ ˈmer.ə.taɪm
+DEF^adj^ Connected with human activity at sea
+EX^ Amalfi and Venice were important *maritime* powers.
+EX^ *Maritime* trade routes are essential for global commerce, facilitating the transport of goods across the oceans.
+DEF^adj^ Near the sea/coast
+EX^ The temperature change in winter is less pronounced in *maritime* areas.
+
+WORD^ Nautical
+SEC^ THE
+IPA^ ˈnɑː.t̬i.kəl
+DEF^adj^ Relating to ships/sailing/sailors
+EX^ You're looking very *nautical* in your navy blue sweater.
+EX^ The beach house was decorated in a *nautical* style, with anchors and ship wheels adorning the walls.
+EX^ The museum had an impressive collection of *nautical* artifacts, including old maps and ship models.
+
+WORD^ Tack
+SEC^ MONO
+IPA^ tæk
+DEF^n^ A small sharp nail with a flat end
+EX^ He pinned the poster to the wall with a *tack*.
+DEF^v^ To fasten sth with tacks
+EX^ The artist *tacked* the canvas to the wooden frame before painting.
+DEF^n^ A long loose stitch
+EX^ She used a *tack* stitch to keep the hem in place before sewing it properly.
+DEF^v^ To sew with a tack stitch holding two pieces of material together temporarily, before they are sewn together in a more tidy/permanent way
+EX^ Before sewing the dress's side seams permanently, she *tacked* the pieces together to check the fit and alignment.
+DEF^n^ All the objects that the rider of a horse needs, including saddles & bridles
+EX^ She purchased new *tack* for her horse, including a saddle and reins.
+EX^ She cleaned her horse's *tack* thoroughly after the ride.
+DEF^n^ To change the direction of a sailing vessel by turning its bow
+EX^ The sailors had to *tack* the boat to head back toward the shore.
+EX^ To avoid the rocks, the captain had to *tack* sharply to the left.
+DEF^n^ A course of action or policy, especially one differing from a former course
+EX^ After receiving the feedback, the manager decided to change *tack* and approach the project differently.
+
+WORD^ Abet
+SEC^ GROUPED
+GR^ Abet
+IPA^ əˈbet
+DEF^v^ To help or encourage sb to do sth wrong/illegal
+EX^ His accountant had aided and *abetted* him in the fraud.
+EX^ The hacker was accused of *abetting* cybercriminals by sharing security vulnerabilities.
+
+WORD^ Abetment
+SEC^ GROUPED
+GR^ Abet
+IPA^ əˈbet.mənt
+DEF^n^ The act of abetting
+EX^ He was charged with *abetment of fraud* for his role in helping to falsify financial records.
+EX^ The teacher's *abetment of cheating* by ignoring it during exams led to widespread dishonesty among students.
+
+WORD^ Abettor
+SEC^ GROUPED
+GR^ Abet
+IPA^ əˈbet̬.ɚ
+DEF^n^ The one who abets
+EX^ The court found the accomplice guilty of being an *abettor* to the crime, having provided critical support to the main perpetrator.
+
+WORD^ Punctilious
+SEC^ GROUPED
+GR^ Punctilious
+IPA^ pʌŋkˈtɪl.i.əs
+DEF^adj^ Very careful to behave correctly/to give attention to details
+EX^ He was always *punctilious* in his manners, ensuring he followed every social convention.
+EX^ The event coordinator was *punctilious* in arranging every aspect of the gala, ensuring everything was perfect.
+
+WORD^ Punctiliousness
+SEC^ GROUPED
+GR^ Punctilious
+IPA^ pʌŋkˈtɪl.i.əs.nəs
+DEF^n^ The quality of being punctilious
+EX^ The manager's *punctiliousness* in reviewing each report ensured that no errors were overlooked.
+EX^ Her *punctiliousness* in following etiquette made her a model guest at every formal event.
+
+WORD^ Meticulous
+SEC^ GROUPED
+GR^ Meticulous
+IPA^ məˈtɪk.jə.ləs
+DEF^adj^ Very careful with great attention to detail
+EX^ Many hours of *meticulous* preparation have gone into writing the book.
+EX^ The artist's *meticulous* brushstrokes brought the portrait to life with incredible realism.
+
+WORD^ Meticulousness
+SEC^ GROUPED
+GR^ Meticulous
+IPA^ məˈtɪk.jə.ləs.nəs
+DEF^n^ The quality of being meticulous
+EX^ He was known for the quality of his observation and the *meticulousness* of his technique.
+EX^ Her *meticulousness* in her work ensures that every project is completed to the highest standard.
+
+WORD^ Fathom
+SEC^ GROUPED
+GR^ Fathom
+IPA^ ˈfæð.əm
+DEF^n^ A unit for measuring water depths (1 fath = 1.8288 m)
+DEF^v^ Comprehend/Understand
+EX^ She couldn't *fathom* why he had left so suddenly.
+EX^ I still haven't *fathomed out* how to put this bookcase together.
+
+WORD^ (Un)Fathomable
+SEC^ GROUPED
+GR^ Fathom
+IPA^ (ʌnˈfæð.ə.mə.bəl) ˈfæð.ə.mə.bəl
+DEF^adj^ Possible to understand
+EX^ The scene takes place, for no easily *fathomable* reason, in a bath tub.
+EX^ The reasons behind the ancient civilization's decline are now more *fathomable* thanks to recent archaeological discoveries.
+EX^ The author's intricate plot was made *fathomable* through careful reading and analysis
+EX^ The depths of the universe remain *unfathomable* to even the most advanced astronomers.
+
+WORD^ Fathomless
+SEC^ GROUPED
+GR^ Fathom
+IPA^ ˈfæð.əm.ləs
+DEF^adj^ Too deep to be measured
+EX^ The ocean's *fathomless* depths hold many mysteries yet to be discovered.
+EX^ She gazed into the *fathomless* depths of his brown eyes.
+
+WORD^ Subsist
+SEC^ GROUPED
+GR^ Subsist
+IPA^ səbˈsɪst
+DEF^v^ To get just enough food/money to stay alive
+EX^ The prisoners were *subsisting on* a diet of bread and water.
+EX^ The family had to *subsist on* a small income after the father lost his job.
+DEF^v^ To persist/remain in existence
+EX^ Traditional crafts, such as hand-weaving, still *subsist* in many villages, passed down through generations.
+
+WORD^ Subsistence
+SEC^ GROUPED
+GR^ Subsist
+IPA^ səbˈsɪs.təns
+DEF^n^ The state of subsisting
+EX^ Many people in the town feed their families by *subsistence*, an economic lifestyle characterized by living off the land.
+DEF^n^ What a person needs to subsist
+EX^ Art satisfies a need beyond mere *subsistence*.
+EX^ Many rural families rely on *subsistence* farming to provide for their basic needs.
+
+WORD^ Tapestry
+SEC^ THE
+IPA^ ˈtæp.ə.stri
+DEF^n^ A strong cloth with colored threads woven into it to create a picture/design
+EX^ The medieval castle was adorned with a beautiful *tapestry* depicting a hunting scene.
+DEF^n^ Sth made of many different parts
+EX^ The instruments blend together, weaving *tapestries* of sound, while the pace of the music changes constantly.
+EX^ The city's culture is a *tapestry* of various traditions and influences.
+
+WORD^ Haste
+SEC^ GROUPED
+GR^ Haste
+IPA^ heɪst
+DEF^n^ Too much speed
+EX^ His father had just died and he didn't want to marry with indecent *haste*.
+EX^ Unfortunately the report was prepared *in haste* and contained several inaccuracies.
+EX^ *In her haste* to get up from the table, she knocked over a cup.
+
+WORD^ Hasten
+SEC^ GROUPED
+GR^ Haste
+IPA^ ˈheɪ.sən
+DEF^v^ To make sth happen sooner/more quickly
+EX^ There is little doubt that poor medical treatment *hastened* her death.
+EX^ These recent poor results have *hastened* the manager's departure.
+DEF^v + to inf^ To quickly do sth
+EX^ The president *hastened to* reassure his people that he was in perfect health.
+DEF^v + somewhere^ To go somewhere quickly
+EX^ Reporters *hastened from the press conference* to call their editors.
+EX^ From her office on the first floor, she *hastened upstairs* to speak to her boss.
+
+WORD^ Hasty
+SEC^ GROUPED
+GR^ Haste
+IPA^ ˈheɪ.sti
+DEF^adj^ Done in haste with insufficient cafe/thought
+EX^ His *hasty* decision to quit his job led to financial difficulties.
+
+WORD^ Hastiness
+SEC^ GROUPED
+GR^ Haste
+IPA^ ˈheɪ.sti.nəs
+DEF^n^ The quality of saying/doing things in haste
+EX^ His *hastiness* in making decisions often led to mistakes.
+
+WORD^ Foolhardy
+SEC^ FAMILIAL
+GR*^ Fool
+IPA^ ˈfuːlˌhɑːr.di
+DEF^adj^ Brave in a foolish way, taking unnecessary risks
+EX^ His *foolhardy* attempt to climb the mountain without proper gear ended in disaster.
+
+WORD^ Lesion
+SEC^ THE
+IPA^ ˈliː.ʒən
+DEF^n^ An injury to a person's body or to an organ inside their body
+EX^ The MRI revealed a *lesion* in the patient's brain.
+EX^ The dermatologist examined the *lesion* on her skin to determine if it was benign.
+
+WORD^ Pathology
+SEC^ GROUPED
+GR^ *ology/*phy
+DEF^n^ The scientific study of disease
+
+WORD^ Sac
+SEC^ MONO
+IPA^ sæk
+DEF^n^ A bag-like enclosure, often containing fluid/air
+EX^ The insect trapped in the spider's silk *sac* struggled to escape
+EX^ The lung is surrounded by a thin *sac* called the pleura.
+DEF^n^ A part of an organism that resembles a pouch/bag, often involved in holding/transporting substances.
+EX^ The amniotic *sac* protects the fetus during pregnancy.
+
+WORD^ Rash
+SEC^ GROUPED
+GR^ Rash
+IPA^ ræʃ
+DEF^n^ A lot of small red spots on the skin
+EX^ She developed a *rash* after touching the poison ivy.
+EX^ He came out/up in a *rash* after he fell in a patch of nettles.
+DEF^adj^ Careless/unwise/imprudent
+EX^ I think it was a bit *rash* of them to get married when they'd only known each other for a few weeks.
+EX^ His *rash* decision to invest all his money in one stock led to significant losses.
+DEF^A rash of^ A large number of unpleasant events of the same type
+EX^ There has been *a rash of* robberies/accidents/complaints in the last two months.
+EX^ Following the CEO's resignation, there was *a rash of* employee departures from the company.
+
+WORD^ Rashly
+SEC^ GROUPED
+GR^ Rash
+IPA^ ˈræʃ.li
+DEF^adv^ In a rash way
+EX^ He *rashly* decided to invest all his savings in the risky venture.
+
+WORD^ Rashness
+SEC^ GROUPED
+GR^ Rash
+IPA^ ˈræʃ.nəs
+DEF^n^ The quality of being rash
+EX^ In a moment of *rashness*, I agreed to go skydiving for charity.
+EX^ Her *rashness* often put her in difficult situations, as she rarely thought through her actions.
+
+WORD^ Spate
+SEC^ MONO
+IPA^ speɪt
+DEF^n^ A larger number of events than usual, especially unpleasant ones, happening at about the same time
+EX^ Police are investigating a *spate of* burglaries in the Kingsland Road area.
+DEF^n^ A sudden outburst
+EX^ A *spate of* anger erupted during the heated debate.
+DEF^In full spate^ [Of a river] Has more water and is faster than usual
+EX^ The stream was *in full spate*, so we struggled to cross it.
+
+WORD^ Confluent
+SEC^ GROUPED
+GR^ Confluent
+IPA^ ˈkɑːn.flu.ənt
+DEF^adj^ [Of rivers/streams/liquid] Flowing together
+EX^ The two rivers became *confluent* at the base of the mountain.
+DEF^adj^ Merging together to form a unified whole
+EX^ Their ideas were *confluent*, resulting in a cohesive plan
+DEF^adj^ [Medical] Skin lesions/rashes that merge or coalesce.
+EX^ In some cases, the blisters merge together into sheets, forming a *confluent* rash.
+EX^ During development, this cavity becomes *confluent with* the aortic sac.
+
+WORD^ Confluence
+SEC^ GROUPED
+GR^ Confluent
+IPA^ ˈkɑːn.fluː.əns
+DEF^n^ The quality of being confluent
+EX^ The *confluence* of the two rivers created a powerful current.
+EX^ The *confluence* of different cultures in the city has led to a unique cultural tapestry.
+EX^ The conference was a *confluence* of experts from various fields.
+
+WORD^ Subdivide
+SEC^ GROUPED
+GR^ Subdivide
+IPA^ ˌsʌb.dɪˈvaɪd
+DEF^v^ To divide sth that's already divided
+EX^ The heading was *subdivided* into eight separate sections.
+EX^ The report was *divided* into main sections and then *subdivided* into more detailed subsections.
+
+WORD^ Subdivision
+SEC^ GROUPED
+GR^ Subdivide
+IPA^ ˌsʌb.dɪˈvɪʒ.ən
+DEF^n^ One of the subdivided parts / The act of subdividing
+EX^ The *subdivision* of the document into chapters made it easier to read.
+DEF^n^ [Real estate] A land containing homes built at about the same time
+EX^ The new housing *subdivision* will have over 69 homes and several parks.
+
+WORD^ Subside
+SEC^ GROUPED
+GR^ Subside
+IPA^ səb'saɪd
+DEF^v^ [Of a condition/situation] Becomes less strong/extreme
+EX^ The police are hoping that the violence will soon *subside*.
+EX^ As the pain in my foot *subsided*, I was able to walk the short distance to the car.
+DEF^v^ [Of buildings/land/water] Goes down to a lower level
+EX^ There is a danger that many homes will *subside* because of the drought.
+EX^ Eventually the flood waters began to *subside*.
+
+WORD^ Subsidence
+SEC^ GROUPED
+GR^ Subside
+IPA^ səbˈsaɪ.dəns
+DEF^n^ The act of subsiding
+EX^ The *subsidence* of the soil due to groundwater extraction has caused significant damage to buildings in the area.
+EX^ The building had to be demolished because of *subsidence*.
+
+WORD^ Subsidiary
+SEC^ GROUPED
+GR^ Subsidiary
+IPA^ səbˈsɪd.i.er.i
+DEF^n^ A company owned by a larger one
+EX^ Alphabet Inc has several *subsidiaries* operating in different industries worldwide, including Google.
+DEF^adj^ Less important than but related/supplementary to sth
+EX^ While the main focus was on research, there were several *subsidiary* tasks that needed attention.
+EX^ Her contributions were *subsidiary* to the main objectives of the project.
+
+WORD^ Ancillary
+SEC^ THE
+IPA^ ˈæn.sə.ler.i
+DEF^adj^ Providing help/support
+EX^ The company offers several *ancillary* services, such as technical support and customer training.
+EX^ The court case involved *ancillary* issues, such as property disputes and child custody arrangements.
+
+WORD^ Auxiliary
+SEC^ THE
+IPA^ ɑːɡˈzɪl.i.er.i
+DEF^adj^ Giving help/support to a more important person/thing:
+EX^ The *auxiliary* nurse assisted the primary surgeon during the complex operation.
+EX^ The army called in *auxiliary* troops to support the main forces during the mission.
+
+WORD^ Peculiar
+SEC^ THE
+IPA^ pɪˈkjuːl.jɚ
+DEF^adj^ Unusual & strange, sometimes in an unpleasant way
+EX^ His *peculiar* sense of humor often left his friends puzzled but amused.
+DEF^adj^ Characteristic of only particular people/things
+EX^ He gets on with things in his own *peculiar* fashion.
+EX^ They noted that manner of walking that was *peculiar to* her alone.
+EX^ This type of building is *peculiar to* the south of the country.
+
+WORD^ Austere
+SEC^ GROUPED
+GR^ Austere
+IPA^ ɑːˈstɪr
+DEF^adj^ Very plain with only the absolutely necessary things, especially because of severe limits on money/goods
+EX^ The soldiers endured *austere* conditions during their winter training exercises.
+DEF^adj^ Plain with no auxiliary decorations
+EX^ The church's *austere* façade featured plain stonework, devoid of any ornate details.
+DEF^adj^ Very severe and unfriendly in manner
+EX^ The headmaster was known for his *austere* demeanor, enforcing the school rules with no exceptions.
+
+WORD^ Austerity
+SEC^ GROUPED
+GR^ Austere
+IPA^ ˈɑː.ster.ə.t̬i
+DEF^n^ The condition/practice/experience/habit of an austere lifestyle
+EX^ The wartime *austerity* of my early years prepared me for later hardships.
+DEF^n^ The quality of being austere in appearance
+EX^ The *austerity* of her short hair and plain grey suit was a far cry from her night job.
+DEF^n^ A difficult economic situation caused by the government reducing the money it spends
+EX^ The government implemented *austerity* measures to address the national debt, leading to widespread protests.
+
+WORD^ Incarcerate
+SEC^ THE
+IPA^ ɪnˈkɑːr.sə.reɪt
+DEF^v^ To imprison/confine sb
+EX^ We were *incarcerated* in that elevator for hours on end.
+EX^ During the war, many political dissidents were *incarcerated* for their beliefs and actions against the government.
+
+WORD^ Jig
+SEC^ MONO
+IPA^ dʒɪɡ
+DEF^n^ An energetic traditional dance of Great Britain & Ireland / The music played for such a dance
+EX^ The musicians played a traditional Irish *jig*, and the dancers moved energetically to the rhythm.
+DEF^v^ To move quickly horizontally/vertically / To make sb/sth do that
+EX^ He gave the door handle a quick *jig* to see if it was locked.
+
+WORD^ Padlock
+SEC^ THE
+IPA^ ˈpæd.lɑːk
+DEF^n^ A small metal lock with a U-shaped bar
+EX^ She used a *padlock* to secure the bicycle to the rack.
+DEF^v^ To fasten sth using a padlock
+EX^ The box was securely *padlocked* and no one had the key.
+
+WORD^ Interbed
+SEC^ FAMILIAL
+GR*^ Bed
+IPA^ ˌɪn.t̬ɚˈbed
+DEF^v^ To form layers between different types of rock/other substances
+EX^ The research paper discussed how fossil-rich strata were often *interbedded with* sterile layers, demonstrating cycles of life and extinction.
+EX^ Limestone beds *interbedded with* volcanic ash layers provide evidence of periodic volcanic activity in the region.
+
+WORD^ Alluvium
+SEC^ GROUPED
+GR^ Alluvium
+IPA^ əˈluː.vi.əm
+DEF^n^ Sediment left behind by rivers/flood (Phù sa)
+EX^ The fertile fields along the riverbank were covered with rich *alluvium*, deposited during the annual floods.
+
+WORD^ Alluvial
+SEC^ GROUPED
+GR^ Alluvium
+IPA^ əˈluː.vi.əl
+DEF^adj^ Made up of alluvium
+EX^ The Mekong Delta is an *alluvial* plain with highly fertile soil.
+
+WORD^ Silt
+SEC^ MONO
+IPA^ sɪlt
+DEF^n^ Sand/Soil that is carried along by flowing water and then dropped, especially at a river's bend/opening
+EX^ The delta is formed by the deposition of *silt* carried by the river as it flows into the sea.
+
+WORD^ Divagate
+SEC^ THE
+IPA^ 'dʌɪ.və.ɡeɪt
+DEF^v^ To move away from a set path/direction
+EX^ During their hike, they *divagated* off the main trail and got lost in the forest.
+DEF^v^ To stray from the main topic in speaking/writing (= Digress)
+EX^ The professor often *divagated* into personal anecdotes during his lectures.
+EX^ As she narrated the story, she began to *divagate* into unrelated details about her childhood.
+
+WORD^ Strut
+SEC^ MONO
+IPA^ strʌt
+DEF^v^ To walk around arrogantly
+EX^ The models *strutted* down the runway, wearing the latest fashion designs.
+EX^ The peacock *strutted around* the yard, showing off its vibrant feathers
+EX^ The boys *strutted* around trying to get the attention of a group of girls who were nearby.
+
+WORD^ Waddle
+SEC^ THE
+IPA^ 'wɑː.dəl
+DEF^v^ [Of a short-legged & corpulent human/animal] To walk with short steps, moving the body from one side to the other
+EX^ The ducks *waddled* behind their mother adorably.
+EX^ I shouted my order and a short, chubby waiter *waddled* over.
+EX^ The costume made him *waddle* awkwardly, much to the amusement of the children.
+
+WORD^ Dawdle
+SEC^ THE
+IPA^ 'dɑː.dəl
+DEF^v^ To do sth/go somewhere very slowly, taking more time than is necessary
+EX^ Stop *dawdling*! You'll be late for school!
+EX^ He *dawdled over* his homework, taking much longer than necessary.
+EX^ She *dawdled* on her way to school, stopping to look at every flower and bird.
+
+WORD^ Loiter
+SEC^ THE
+IPA^ 'lɔɪ.t̬ɚ/
+DEF^v^ To move slowly/idly around a public place with no obvious reason
+EX^ Those who *loiter* in busy areas obstruct the foot traffic.
+EX^ He *loitered* in the park, watching people pass by to while away his time.
+EX^ The teenagers were warned not to *loiter* outside the convenience store.
+
+WORD^ Resuscitate
+SEC^ THE
+IPA^ rɪ'sʌs.ə.teɪt
+DEF^v^ To revive (from unconsciousness/apparent death)
+EX^ The paramedics were able to *resuscitate* the drowning victim using CPR.
+EX^ The volunteers are working to *resuscitate* the old traditions and festivals of the town.
+
+WORD^ Amass
+SEC^ FAMILIAL
+GR*^ Mass
+IPA^ ə'mæs
+DEF^v^ To accumulate over a long period into a large amount
+EX^ She has *amassed* a huge fortune from her novels.
+EX^ THe company *amassed* a large database of customer information to improve their services.
+
+WORD^ Hoard
+SEC^ MONO
+IPA^ hɔːrd
+DEF^n^ A largely accumulated stockpile of hidden items
+EX^ The dragon guarded its *hoard* of gold and jewels deep within the cave.
+EX^ He had a *hoard* of old coins collected over many years.
+DEF^v^ To amass & store away
+EX^ She likes to *hoard* magazines & newspapers, filling her attic with them.
+EX^ During the pandemic, people *hoarded* essential supplies like food and water.
+
+WORD^ Recapitulate
+SEC^ FAMILIAL
+GR*^ Recap
+DEF^v^ This is the original word. "Recap" is a shorthand.
+
+WORD^ Encapsulate
+SEC^ FAMILIAL
+GR*^ Capsule
+IPA^ ɪn'kæp.sjə.leɪt
+DEF^v^ To express/show the most important characteristics
+EX^ The keynote speaker *encapsulated* the main points of the conference in his closing remarks.
+EX^ She *encapsulates* the stereotyped image that the British have of Americans.
+
+WORD^ Capsular
+SEC^ FAMILIAL
+GR*^ Capsule
+IPA^ 'kæp.sə.lɚ
+DEF^adj^ [Usually of human body] Resembling a capsule
+EX^ The surgeon examined the *capsular* tissue around the knee to ensure there was no damage.
+EX^ The *capsular* shape of the spaceship allowed it to re-enter the Earth's atmosphere safely.
+EX^ In botany, certain fruits have *capsular* structures that enclose their seeds.
+
+WORD^ Valiant
+SEC^ THE
+IPA^ 'væl.i.ənt
+DEF^adj^ Bravely determined in gravely despondent situations
+EX^ The *valiant* firefighter entered the burning building to rescue the trapped family.
+EX^ The knight's *valiant* efforts in battle earned him great honor.
+
+WORD^ Maize
+SEC^ MONO
+IPA^ meɪz
+DEF^n^ = Corn
+
+WORD^ Mount
+SEC^ MONO
+IPA^ maʊnt
+DEF^n^ Sth that you ride
+EX^ The knight rode his *mount* valiantly into battle.
+DEF^v^ To gradually increase/rise/enlarge
+EX^ The children's excitement is *mounting* as Christmas gets nearer.
+DEF^v^ To get on sth to ride it
+EX^ She *mounted* her horse and rode off.
+DEF^v^ To go up/onto
+EX^ He *mounted* the platform and began to speak to the assembled crowd.
+EX^ The queen *mounted the throne* 5 years ago.
+DEF^v^ To organize/initiate
+EX^ They *mounted* a campaign to raise awareness about environmental issues.
+DEF^v^ To fix/secure in position
+EX^ He *mounted* the TV on the wall to save space in the living room.
+
+WORD^ Kiln
+SEC^ MONO
+IPA^ kɪln
+DEF^n^ An oven to make bricks & clay objects hard after they have been shaped
+EX^ The factory uses a large *kiln* to dry lumber before it is used for construction.
+
+WORD^ Barley
+SEC^ THE
+IPA^ 'bɑːr.li
+DEF^n^ A kind of cereal grain (Lúa mạch)
+EX^ I love Ovaltine, a hybrid *barley*-choco milk brand.
+
+WORD^ Malt
+SEC^ MONO
+IPA^ mɑːlt
+DEF^n^ Grain left in water until it starts to grow and is then dried (Mạch nha means Malt syrup)
+EX^ The brewer selected a high-quality *malt* to ensure the beer had a rich and full flavor.
+
+WORD^ Millet
+SEC^ THE
+IPA^ 'mɪl.ɪt
+DEF^n^ A kind of cereal grain (Kê)
+EX^ Birds are particularly fond of *millet*, which is often included in birdseed mixtures.
+
+WORD^ Corpulent
+SEC^ THE
+IPA^ 'kɔːr.pjə.lənt
+DEF^adj^ Fat
+EX^ The *corpulent* merchant waddled down the cobblestone street, his belly jiggling with each step.
+
+WORD^ Yearn
+SEC^ MONO
+IPA^ jɝːn
+DEF^v^ To desire sth difficult to get strongly
+EX^ Despite his great commercial success he still *yearns for* critical approval.
+EX^ Sometimes I just *yearn to* be alone.
+
+WORD^ Yarn
+SEC^ MONO
+IPA^ jɑːrn
+DEF^n^ A type of thread used for making cloth/knitting
+EX^ She bought some colorful *yarn* to knit a sweat.
+DEF^n^ A long and interesting story
+EX^ He knew how to *spin a good yarn*.
+
+WORD^ Stash
+SEC^ MONO
+IPA^ stæʃ
+DEF^n^ An amount of sth that has been stashed
+EX^ They discovered *a stash of* money hidden at the back of a drawer.
+EX^ Quilters are notorious for having big *stashes* of fabrics.
+DEF^v^ To store/hide sth, especially a large amount
+EX^ He needed a place to *stash* some cash.
+EX^ The stolen pictures were *stashed away* in a warehouse.
+EX^ Extra blankets are *stashed* in the closet.
+
+WORD^ Ply
+SEC^ MONO
+IPA^ plaɪ
+DEF^n^ A layer/fold/thickness of material such as wood/yarn
+EX^ The plywood is made of several *plies* glued together.
+EX^ The rope is made of three *plies* twisted together.
+DEF^v^ To work at sth persistently
+EX^ The fisherman *plied* his trade from dawn till dusk.
+EX^ She *plied* her needlework with great care and dedication.
+DEF^v^ To travel over a route regularly
+EX^ The ferry *plies* between the island and the mainland many times a day.
+EX^ The bus *plies* the streets of the city, picking up passengers along the way.
+DEF^v^ To offer/give sth repeatedly/insistently.
+EX^ He *plied* his guests with food and drink throughout the evening.
+EX^ The vendors *plied* their wares to the crowd.
+
+WORD^ Snatch
+SEC^ MONO
+IPA^ snætʃ
+DEF^v^ To take hold suddenly & roughly, often by force
+EX^ He *snatched* the photos out of my hand before I could look at them.
+EX^ The six-year-old girl was *snatched* from a playground and her body was found two days later.
+EX^ She had her purse *snatched (= stolen)* while she was shopping.
+DEF^v^ To do/get sth quickly because you have little time
+EX^ Maybe you'll be able to *snatch* a couple of hours' sleep before dinner.
+
+WORD^ Lissome
+SEC^ THE
+IPA^ 'lɪs.əm
+DEF^adj^ Attractively thin & able to move quickly, smoothly
+EX^ The dancer’s *lissome* movements captivated the audience
+EX^ The model's *lissome* figure was perfect for the runway.
+EX^ The cat’s *lissome* body twisted and turned effortlessly as it jumped onto the ledge.
+
+WORD^ Limber
+SEC^ THE
+IPA^ 'lɪm.bɚ
+DEF^adj^ Flexible & supple
+EX^ After warming up, the gymnast felt *limber* and ready for her routine.
+EX^ The yoga instructor's *limber* body impressed all her students.
+DEF^phr. v^ To make oneself flexible / to warm up by exercising.
+EX^ The athletes *limbered up* before the race to avoid injuries.
+EX^ She spent a few minutes *limbering up* her muscles before the dance class.
+
+WORD^ Supple
+SEC^ THE
+IPA^ 'sʌp.əl
+DEF^adj^ Able to bend easily
+EX^ I'm not *supple* enough (= my body  bend easily enough) to touch the floor.
+EX^ She moved with the *grace* of a dancer, her body supple and agile.
+DEF^adj^ Easily adaptable/responsive to new situations.
+EX^ The fabric felt *supple* against her skin, perfect for the delicate dress.
+
+WORD^ Gauche
+SEC^ MONO
+IPA^ ɡoʊʃ
+DEF^adj^ Tactless, unsophisticated and socially awkward
+EX^ She had grown from a *gauche* teenager to a self-assured young woman.
+EX^ It was a bit *gauche* of him to bring up politics during the family gathering.
+EX^ His *gauche* manners at the dinner party made everyone feel uncomfortable.
+
+WORD^ Blight
+SEC^ MONO
+IPA^ blaɪt
+DEF^n+v^ A disease that damages & kills plants
+EX^ The tomato plants were affected by *blight*, resulting in a poor harvest.
+EX^ The crops *blighted* and died out quickly due to the unexpected disease outbreak.
+DEF^v^ To spoil sth
+EX^ A broken leg *blighted* her chances of winning the championship.
+EX^ The harsh economic policies *blighted* the once-thriving town.
+DEF^n^ Sth that blights
+EX^ The abandoned buildings were a *blight* on the landscape, making the neighborhood look rundown.
+EX^ The city stopped urban *blight* by rebuilding neighborhoods.
+
+WORD^ Communiqué
+SEC^ THE
+IPA^ kə'mjuː.nɪ.keɪ
+DEF^n^ An official announcement to the public/press
+EX^ The president issued a *communiqué* announcing new measures to combat the economic crisis.
+EX^ The palace has issued a *communiqué* denying the rumour.
+
+WORD^ Stern
+SEC^ MONO
+IPA^ stɝːn
+DEF^adj^ Strict
+EX^ The teacher gave the class a *stern* warning about cheating on the exam.
+EX^ His *stern* expression left no room for argument.
+DEF^adj^ Harsh/severe in manner/character
+EX^ The judge's *stern* sentence was meant to serve as a deterrent to others.
+EX^ The *stern* measures were necessary to ensure compliance with the new regulations.
+DEF^n^ The back part of a ship/boat
+EX^ The captain stood at the *stern*, overseeing the crew's activities.
+EX^ They painted the ship's name on the *stern* before setting sail.
+
+WORD^ Spartan
+SEC^ THE
+IPA^ 'spɑːr.tən
+DEF^adj^ Simple & severe with no comfort
+EX^ The accommodations were *spartan*, with just a bed, a chair, and a small table.
+EX^ Our *spartan* way of life included hard beds, hard work, and no TV.
+DEF^adj^ Pertaining to the city of Sparta in ancient Greece or its citizens.
+EX^ The *spartan* warriors were renowned for their bravery and military skill.
+
+WORD^ Stout
+SEC^ MONO
+IPA^ staʊt
+DEF^adj^ Having a strong, sturdy, & thick build
+EX^ The *stout* oak door withstood the force of the storm.
+EX^ Mrs Blower was the *stout* lady - She's been gaining weight recently.
+DEF^adj^ Made from strong, thick materials
+EX^ I bought myself a pair of good *stout* hiking boots.
+DEF^adj^ Brave, courageous, & resolute
+EX^ He needed a *stout* heart and nerves of steel.
+EX^ The soldiers made a *stout* defense of the fortress.
+
+WORD^ Arsenal
+SEC^ THE
+IPA^ 'ɑːr.sən.əl
+DEF^n^ A building where weapons & military equipment are stored
+EX^ The army's main *arsenal* was heavily guarded and stocked with a wide array of weaponry.
+DEF^n^ A collection of weapons
+EX^ The country's nuclear *arsenal* is a crucial part of its defense strategy.
+DEF^n^ A collection of anything that can be used for a specific purpose, often referring to tools/skills/strategies
+EX^ She had an impressive *arsenal* of negotiation tactics that helped her close the deal.
+EX^ The software comes with an *arsenal* of features to enhance productivity.
+
+WORD^ Spar
+SEC^ MONO
+IPA^ spɑːr
+DEF^n^ A stout pole used for the masts/yards of a ship.
+EX^ The sailors climbed the *spar* to adjust the sails.
+DEF^v^ To engage in a light, non-serious argument/fight
+EX^ The siblings often *spar* over trivial matters.
+EX^ They often *sparred* over trivial matters, but it was all in good fun.
+
+WORD^ Niche
+SEC^ MONO
+IPA^ nɪtʃ
+DEF^n^ A shallow recess, especially one in a wall to display a statue/other ornament
+EX^ The art gallery had a beautiful marble statue displayed in a *niche* in the main hall.
+DEF^n^ A comfortable & suitable position in life or employment
+EX^ After years of job hunting, she finally found her *niche* as a graphic designer.
+DEF^n^ The role/function of an organism/species within an ecosystem
+EX^ The frog occupies an important *niche* in the wetland ecosystem, helping control insect populations.
+DEF^n^ A distinctive segment of a particular market/social environment.
+EX^ The blog caters to a *niche* audience interested in medieval history and artifacts.
+
+WORD^ Blather
+SEC^ THE
+IPA^ 'blæð.ɚ
+DEF^n^ Silly yapping
+EX^ Her endless *blather* about celebrity gossip was getting on everyone's nerves.
+DEF^v^ Yap sillily
+EX^ What on earth are you *blathering* on about?
+
+WORD^ Alcove
+SEC^ THE
+IPA^ ˈæl.koʊv
+DEF^n^ A small space in a room, formed by one part of a wall being further back
+EX^ We've put some bookshelves in the *alcove*.
+
+WORD^ Recess
+SEC^ THE
+IPA^ 'rɪː.ses
+DEF^n^ A period of time when formal activity, such as school or court sessions, is temporarily suspended.
+EX^ The students eagerly awaited *recess* to play outside.
+DEF^n^ A small, hollow space set back from a larger area
+EX^ The door had a small *recess* for the keyhole.
+EX^ There was a small *recess* in the wall where the statue was placed.
+DEF^n^ A remote, hidden, or secluded place or part.
+EX^ They explored the deep *recesses* of the cave.
+
+WORD^ Nook
+SEC^ MONO
+IPA^ nʊk
+DEF^n^ A cozy/secluded corner/recess, often in a room or a garden
+EX^ She curled up with a book in the *nook* by the window.
+EX^ The café had a cozy *nook* with soft chairs and a warm fireplace.
+
+WORD^ Cranny
+SEC^ THE
+IPA^ 'kræn.i
+DEF^n^ A small & narrow opening in sth solid
+EX^ Tiny plants grew in the *crannies* between the rocks.
+EX^ They searched every *cranny* of the attic to find the missing book.
+
+WORD^ Quandary
+SEC^ THE
+IPA^ 'kwɒn.dəri
+DEF^n^ A state of perplexity/uncertainty over what to do
+EX^ She was in a *quandary* about whether to accept the job offer.
+EX^ The committee faced several *quandaries* in deciding how to allocate the budget effectively.
+
+WORD^ Aperitif
+SEC^ THE
+IPA^ əˌper.ə'tiːf
+DEF^n^ An alcoholic drink before the main meal
+EX^ Would you like an *aperitif* before dinner?
+
+WORD^ Supplant
+SEC^ THE
+IPA^ sə'plænt
+DEF^v^ To supersede
+EX^ Printed books will soon be *supplanted* by e-books.
+
+WORD^ Shudder
+SEC^ THE
+IPA^ ˈʃʌd.ɚ
+DEF^v^ Tremble/shake with a sudden movement, as a result of fear/cold/revulsion
+EX^ She *shuddered* at the thought of walking through the dark, abandoned house.
+DEF^n^ The act of shuddering
+EX^ He gave a slight *shudder* as he considered how close he had come to death.
+
+WORD^ Quiver
+SEC^ THE
+IPA^ 'kwɪv.ɚ
+DEF^n^ A long, thin container for carrying arrows
+EX^ The archer reached into his *quiver* and drew an arrow, readying himself for the next shot.
+DEF^n^ A slight, rapid shaking movement/sound
+EX^ The *quiver* in his voice revealed his nervousness about the presentation.
+DEF^v^ Shake with a slight, rapid motion; To tremble
+EX^ As she waited for the results, her hands began to *quiver* with anxiety.
+
+WORD^ Lithe
+SEC^ MONO
+IPA^ laɪð
+DEF^adj^ Young, healthy, attractive, and able to move & bend smoothly
+EX^ He had the *lithe*, athletic body of a ballet dancer.
+EX^ The dancer's *lithe* movements captivated the audience as she glided effortlessly across the stage.
+
+WORD^ Vamp
+SEC^ MONO
+IPA^ væmp
+DEF^n^ The front part of the top of a shoe
+EX^ A short *vamp* in a slip-on shoe may make you curl your toes to keep the shoe on.
+DEF^v^ To talk in public without preparation in order to pass the time because you are waiting for sth else to happen
+EX^ He just kept *vamping* until the director showed up to give him some clear instructions.
+EX^ They had to *vamp* for a few minutes to keep the audience amused.
+DEF^v^ Move/act/dance confidently in public, showing that you know that you're sexually attractive
+
+WORD^ Propane
+SEC^ THE
+IPA^ 'proʊ.peɪn
+DEF^n^ [C₃H₈] A gas used as fuel for cooking/heating
+EX^ The forklift in the warehouse operates on *propane*, making it more environmentally friendly than diesel.
+
+WORD^ Lintel
+SEC^ THE
+IPA^ 'lɪn.t̬əl
+DEF^n^ A long piece of stone/wood at the top of a door/window frame that supports the wall above
+EX^ The old stone *lintel* above the doorway was carved with intricate designs.
+
+WORD^ Warble
+SEC^ THE
+IPA^ ˈwɔːr.bəl
+DEF^n^ A melodic/quavering sound, especially of a bird.
+EX^ The nightingale's *warble* filled the evening air with a soothing melody.
+EX^ His voice had a natural *warble* that added charm to his folk music performances.
+DEFv^ To sing/produce warbles
+EX^ The nightingale began to *warble* a sweet, enchanting melody as the sun set.
+EX^ She could *warble* beautifully, her voice rising and falling with ease.
+
+WORD^ Quaver
+SEC^ THE
+IPA^ 'kweɪ.vɚ
+DEF^v^ [Of voices] Shake because of emotions
+EX^ Her voice began to *quaver* and I thought she was going to cry.
+
+WORD^ Weir
+SEC^ MONO
+IPA^ wɪr
+DEF^n^ A wall built under the water across a river to control the way the water flows from one level to another
+EX^ By adjusting the *weir*, they were able to direct water into the irrigation channels for the crops.
+EX^ The engineers constructed a *weir* across the river to manage the flow and prevent flooding.
+
+WORD^ Jug
+SEC^ MONO
+IPA^ dʒʌɡ
+DEF^n^ A liquid container with a handle & a shaped opening at the top for pouring
+EX^ The *jug* of lemonade was passed around the picnic blanket.
+
+WORD^ Trill
+SEC^ MONO
+IPA^ trɪl
+DEF^n^ [Of birds] A series of quickly repeated high notes sung out
+EX^ We heard the familiar *trill* of the lark.
+DEF^n^ A rapid alternation between two adjacent notes, usually in music
+EX^ The musician ended the piece with an impressive *trill* that echoed through the hall.
+DEF^v^ To speak in very high voice
+EX^ The canary began to *trill* a beautiful melody as the sun rose.
+EX^ She could *trill* perfectly, making her the standout performer in the choir.
+
+WORD^ Mayhem
+SEC^ THE
+IPA^ 'meɪ.hem
+DEF^n^ Violent/Extreme disorder; Chaos
+EX^ With 20 kids running around and only two adults to supervise, it was complete *mayhem*.
+EX^ The sudden power outage caused *mayhem* in the office, with everyone scrambling to save their work.
+
+WORD^ Unkempt
+SEC^ THE
+IPA^ ʌn'kempt
+DEF^adj^ Untidy, not cared for
+EX^ His *unkempt* hair made him look like he had just rolled out of bed.
+
+WORD^ Feud
+SEC^ MONO
+IPA^ fjuːd
+DEF^n^ A prolonged/violent conflict/rivalry between two parties (families/groups/clans) characterized by retaliatory acts
+EX^ The corporate *feud* over the patent rights escalated into a lengthy legal battle.
+EX^ The bitter *feud* between the rival gangs resulted in street fights and vandalism.
+EX^ The family *feud* has been ongoing since the death of their mother.
+
+WORD^ Spleen
+SEC^ MONO
+IPA^ spliːn
+DEF^n^ A feeling of anger/disagreement
+EX^ The poet wrote of his *spleen* and sorrow, capturing the depth of his emotional turmoil.
+DEF^n^ An organ near the stomach that produces & cleans body (lá lách)
+
+WORD^ Elongate
+SEC^ GROUPED
+GR^ Elongate
+IPA^ ɪ'loʊŋɡeɪt
+DEF^v^ Make/Become longer & thinner, especially unusually so
+EX^ The shadows began to *elongate* as the sun set behind the mountains.
+
+WORD^ Elongation
+SEC^ GROUPED
+GR^ Elongate
+IPA^ ɪˌlɑːŋ'ɡeɪ.ʃən
+DEF^n^ The process of elongating
+EX^ Myopia is caused by an *elongation* of the eye as it grows.
+
+WORD^ Dock
+SEC^ MONO
+IPA^ dɒk
+DEF^n^ A part of a part, where ships are repaired/laden with goods
+EX^ The *dock* was full of ships.
+DEF^v^ To bring a ship into a dock
+EX^ The ship was *docked* in Japan, and he took the other to Korea.
+DEF^v^ To remove part of sth
+EX^ The soldiers' wages were *docked* by 20%.
+EX^ The lambs' tails are *docked* for hygiene reasons.
+
+WORD^ Deem
+SEC^ MONO
+IPA^ diːm
+DEF^v^ To consider/judge sth
+EX^ The committee will *deem* the proposal worth funding if it meets all the criteria.
+EX^ The judge *deemed* the evidence insufficient to convict the defendant.
+
+WORD^ Commence
+SEC^ GROUPED
+GR^ Commence
+IPA^ kə'mens
+DEF^v^ To begin/start
+EX^ The ceremony shall *commence* at noon.
+
+WORD^ Commencement
+SEC^ GROUPED
+GR^ Commence
+IPA^ kə'mens.mənt
+DEF^n^ The beginning of sth
+EX^ Please turn off your mobile phones before the *commencement* of the flight.
+
+WORD^ Recommence
+SEC^ GROUPED
+GR^ Commence
+IPA^ ˌriːkə'mens
+DEF^v^ To commence again
+EX^ Courses have stopped for the summer, but will *recommence* in September.
+
+WORD^ Recommencement
+SEC^ GROUPED
+GR^ Commence
+IPA^ ˌriː.kə'mens.mənt
+DEF^v^ The beginning of sth again
+EX^ The pipeline was replaced prior to *recommencement* of operations at the factory.
+
+WORD^ Dishevelled
+SEC^ GROUPED
+GR^ Dishevel
+IPA^ dɪ'ʃevld
+DEF^adj^ Very untidy/unkempt
+EX^ He came back from his night shift looking terribly *dishevelled*.
+
+WORD^ Dishevelment
+SEC^ GROUPED
+GR^ Dishevel
+IPA^ dɪ'ʃevld
+DEF^adj^ The state/quality of being dishevelled
+EX^ After the chaotic party, the living room was left in utter *dishevelment*.
+EX^ His hair, always in a state of *dishevelment*, gave him a rugged charm.
+
+WORD^ Crowdsource
+SEC^ THE
+IPA^ 'kraʊd.sɔːrs
+DEF^v^ To obtain information/input from many people
+EX^ The project was *crowdsourced*, allowing many people to contribute ideas.
+
+WORD^ Beget-Begot-Begotten
+SEC^ GROUPED
+GR^ Beget
+IPA^ bɪˈɡet
+DEF^v^ To cause
+EX^ Poverty *begets* hunger, and hunger *begets* crime.
+EX^ He *begot* many children, ensuring his family's lineage would continue.
+
+WORD^ Misbegotten
+SEC^ GROUPED
+GR^ Beget
+IPA^ ˌmɪs.bɪ'ɡɑː.t̬ən
+DEF^adj^ Badly/Stupidly planned/designed
+EX^ The *misbegotten* scheme to quickly get rich ended in disaster for all involved.
+EX^ Her *misbegotten* belief that she could cheat her way to success eventually led to her downfall.
+
+WORD^ Nuisance
+SEC^ THE
+IPA^ ˈnuː.səns
+DEF^n^ Sb/Sth that annoys you or causes troubles
+EX^ The malfunctioning printer was a real *nuisance*, disrupting the office workflow.
+EX^ She considered the mosquitoes to be a *nuisance* whenever she tried to enjoy her evening in the garden..
+
+WORD^ Deter
+SEC^ GROUPED
+GR^ Deter
+IPA^ dɪ'tɝː
+DEF^v^ Discourage/prevent sb from doing sth by instilling fear/doubt/other negative consequences
+EX^ This defense mechanism was designed to *deter* enemy attacks.
+EX^ The high cost of the project didn't *deter* the team from pursuing their goal.
+
+WORD^ Deterrent
+SEC^ GROUPED
+GR^ Deter
+IPA^ dɪ'ter.ənt
+DEF^n^ Sth that deters
+EX^ The new security system acts as a strong *deterrent* against theft.
+EX^ High taxes on cigarettes are meant to be a *deterrent* to smoking.
+
+WORD^ Deterrence
+SEC^ GROUPED
+GR^ Deter
+IPA^ dɪ'ter.ənts
+DEF^n^ The act/fact of deterring
+EX^ Parents often use *deterrence* by setting rules and consequences to prevent their children from misbehaving.
+
+WORD^ Undeterred
+SEC^ GROUPED
+GR^ Deter
+IPA^ ˌʌn.dɪ'tɝːd
+DEF^adj^ Not deterred by difficulty/danger/disappointment
+EX^ Despite the heavy rain, the hikers remained *undeterred* and continued their journey.
+
+WORD^ Detergent
+SEC^ GROUPED
+GR^ Detergent
+IPA^ dɪ'tɝː.dʒənt
+DEF^n^ A substance for cleaning dirt from clothes/dishes 
+EX^ She added a scoop of *detergent* to the washing machine before starting it.
+
+WORD^ Detergency
+SEC^ GROUPED
+GR^ Detergent
+IPA^ dɪ'tɝː.dʒən.si
+DEF^n^ The quality/power of cleaning/purifying
+EX^ The high *detergency* of the new laundry soap made it very effective at removing tough stains from clothes.
+
+WORD^ Beset
+SEC^ THE
+IPA^ bɪ'sɛt
+DEF^adj^ To trouble
+EX^ The small village was *beset* by a series of natural disasters over the course of the year.
+EX^ Many problems have *beset* the team in recent months.
+
+WORD^ Revere
+SEC^ GROUPED
+GR^ Revere
+IPA^ rɪ'vɪr
+DEF^v^ To respect/admire sb deeply
+EX^ Nelson Mandela is *revered* for his brave fight against apartheid.
+EX^ In many cultures, children are taught to *revere* their elders and ancestors.
+
+WORD^ Reverence
+SEC^ GROUPED
+GR^ Revere
+IPA^ 'rev.ɚ.əns
+DEF^n^ A feeling of deep respect
+EX^ She expressed deep *reverence* for the traditions passed down through generations.
+EX^ His *reverence* for nature was evident in the way he carefully tended his garden.
+
+WORD^ Reverent
+SEC^ GROUPED
+GR^ Revere
+IPA^ 'rev.ɚ.ənt
+DEF^adj^ Showing reverence internally
+EX^ The audience sat in *reverent* silence during the moving speech.
+EX^ He looked at the historical artifacts with *reverent* eyes, appreciating their cultural significance.
+
+WORD^ Reverential
+SEC^ GROUPED
+GR^ Revere
+IPA^ ˌrev.ə'ren.ʃəl
+DEF^adj^ Showing reverence outwardly
+EX^ She spoke in a *reverential* tone when discussing the achievements of her late grandfather.
+
+WORD^ Brusque
+SEC^ MONO
+IPA^ brʌsk
+DEF^adj^ Quick/Rude in manner/speech
+EX^ He *brusquely* dismissed the question without further explanation.
+EX^ As the president’s chief of staff, he offended many with his *brusque* manner.
+
+WORD^ Curt
+SEC^ MONO
+IPA^ kɝːt
+DEF^adj^ Brusque but not necessarily offensive
+EX^ He gave a *curt* nod before walking away hurriedly.
+EX^ His *curt* response left no room for further discussion, making it clear he was not interested.
+
+WORD^ Botany
+SEC^ THE
+IPA^ 'bɒtəni
+DEF^n^ The science of plants
+
+WORD^ Banal
+SEC^ GROUPED
+GR^ Banal
+IPA^ bə'næl
+DEF^adj^ Lacking originality/freshness/novelty
+EX^ The novel's plot was so *banal* that I could predict every twist and turn well in advance.
+
+WORD^ Banality
+SEC^ GROUPED
+GR^ Banal
+IPA^ bə'nɑː.lə.t̬i
+DEF^n^ The quality of being banal
+EX^ The critics panned the movie for its *banality*, calling it unoriginal and predictable.
+
+WORD^ Banalize
+SEC^ GROUPED
+GR^ Banal
+IPA^ 'beɪn lˌaɪz
+DEF^v^ To make banal
+EX^ The director feared that the stereotypical elements would *banalize* the story, turning it into just another predictable drama.
+
+WORD^ Attest
+SEC^ GROUPED
+GR^ Attest
+IPA^ ə'tɛst
+DEF^v^ Testify
+EX^ Witnesses *attested* that he was at the scene of the crime
+EX^ The number of old German cars still on the road *attests to* the excellence of their manufacture.
+
+WORD^ Attestation
+SEC^ GROUPED
+GR^ Attest
+IPA^ ˌæt̬.es'teɪ.ʃən
+DEF^n^ The process of attesting
+EX^ The *attestation* of his identity was required before he could access the secure facility.
+EX^ The contract needed an official *attestation* to be legally binding.
+
+WORD^ Abject
+SEC^ GROUPED
+GR^ Abject
+IPA^ 'æb.dʒekt
+DEF^adj^ Existing in a low state/condition; Very bad or severe
+EX^ I lived in *abject* poverty, struggling to find enough food each day.
+DEF^adj^ Showing/Expressing a state of hopelessness/degradation/misery
+EX^ He felt *abject* humiliation after being publicly scolded by his manager.
+DEF^adj^ Lacking pride/dignity / Showing submissiveness/fear
+EX^ Her *abject* apology was filled with tears and desperate pleas for forgiveness.
+
+WORD^ Abjection
+SEC^ GROUPED
+GR^ Abject
+IPA^ æbˈdʒek.ʃən
+DEF^n^ The state of being abject
+EX^ The actor did a great job in portraying the *abjection* of this most pitiful of characters.
+EX^ Working-class women led a life of *abjection* and unending toil at that time.
+
+WORD^ Abjure
+SEC^ GROUPED
+GR^ Abjure
+IPA^ əb'dʒʊr
+DEF^v^ To renounce/reject formally/solemnly
+EX^ She *abjured* her allegiance to the old regime and pledged loyalty to the new government.
+EX* The scientist was forced to *abjure* his controversial theory under pressure from the academic community.
+
+WORD^ Abjuration
+SEC^ GROUPED
+GR^ Abjure
+IPA^ ˌæb.dʒʊ'reɪ.ʃən
+DEF^n^ A formal/public statement of the act of abjuring sth
+EX^ Her *abjuration* of her belief in independence for the country came as a major shock.
+EX^ After years of dedication to the cause, her sudden *abjuration* left many of her followers feeling betrayed and confused.
+
+WORD^ Allay
+SEC^ THE
+IPA^ ə'leɪ
+DEF^v^ To diminish/alleviate negative feelings
+EX^ The CEO tried to *allay* the employee's concerns about job security.
+
+WORD^ Alloy
+SEC^ GROUPED
+GR^ Alloy
+IPA^ 'æl.ɔɪ
+DEF^n^ A metal made by mixing metals with other substances/metals
+EX^ Brass is an *alloy* of copper and zinc.
+
+WORD^ Unalloyed
+SEC^ GROUPED
+GR^ Alloy
+IPA^ ˌʌn.ə'lɔɪd
+DEF^adj^ Not spoiled by negative feelings / Pure
+EX^ We had the perfect holiday - two weeks of *unalloyed* bliss.
+EX^ The child's laughter was a sound of *unalloyed* joy, pure and untainted by any worries.
+
+WORD^ Livery
+SEC^ THE
+IPA^ 'lɪv.ɚ.i
+DEF^n^ Special uniforms of servants/officials
+EX^ The *livery* of the palace guards was striking.
+EX^ A young man dressed in green *livery* opened the door.
+DEF^n^ The colours/pattern/design used on a company's products or on the vehicles, etc. that they use
+EX^ The TV channel has a new *livery*, which is cleaner and less cluttered.
+EX^ The aircraft was painted in the airline's blue and gold *livery*.
+EX^ The airline's new planes feature a striking *livery* with bold blue and green stripes, making them easily recognizable.
+
+WORD^ Tempestuous
+SEC^ FAMILIAL
+GR*^ Tempest
+IPA^ tɛm'pɛs.tju.əs
+DEF^adj^ Characterized by strong/turbulent/conflicting emotions
+EX^ Their *tempestuous* relationship was marked by frequent arguments.
+
+WORD^ Tenure
+SEC^ THE
+IPA^ 'tɛnjə
+DEF^n^ The duration during which sb holds a position/role.
+EX^ During her *tenure* as CEO, the company saw unprecedented growth.
+DEF^n^ The terms or conditions under which land/buildings are held/occupied.
+EX^ The *tenure* of the lease required the tenant to maintain the property in good condition.
+DEF^n^ The right to remain permanently in a job.
+EX^ After years of dedicated research and teaching, he finally achieved *tenure* at the university.
+EX^ *Tenure-track* professors (= *those likely to get tenure*) who don't publish enough work may not be offered *tenure*.
+EX^ Her profile in the college is unusually high for an *untenured* assistant professor. (= *those who don't have a tenure*)
+
+WORD^ Urbane
+SEC^ GROUPED
+GR^ Urbane
+IPA^ ɜr'beɪn
+DEF^adj^ Confident, comfortable, polite in social settings
+EX^ Their *urbane* lifestyle included attending exclusive events and dining at the finest restaurants.
+EX^ The diplomat was known for his *urbane* demeanor and ability to navigate delicate situations with grace.
+
+WORD^ Urbanity
+SEC^ GROUPED
+GR^ Urbane
+IPA^ ɝːˈbæn.ə.t̬i
+DEF^n^ The quality of being urbane
+EX^ She admired his *urbanity*, noting how effortlessly he blended into the sophisticated circles of the city.
+EX^ Despite his rugged appearance, his *urbanity* shone through in his courteous behavior and sophisticated speech.
+
+WORD^ Bleak
+SEC^ MONO
+IPA^ bliːk
+DEF^adj^ [Of scenery] Empty, not welcoming/attractive
+EX^ The *bleak* landscape stretched out for miles, with not a single tree in sight.
+DEF^adj^ [Of situations] With little to no hope for the future
+EX^ The company's financial situation appeared rather *bleak*, leaving the employees worried about their jobs.
+
+WORD^ Cumbersome
+SEC^ GROUPED
+GR^ Encumber
+IPA^ 'kʌm.bɚ.səm
+DEF^adj^ Awkward because of being large/heavy/ineffective
+EX^ The *cumbersome* assembly of the new furniture required several hours and multiple tools.
+EX^ Her dress, though beautiful, was quite *cumbersome*, making it difficult to dance gracefully.
+EX^ The *cumbersome* bureaucratic procedures led to delays and frustration.
+
+WORD^ Encumber
+SEC^ GROUPED
+GR^ Encumber
+IPA^ ɪn'kʌmbər
+DEF^v^ To restrict/burden sth, hampering movement
+EX^ Men tennis players aren't *encumbered* with/by high-necked blouses.
+
+WORD^ Encumbrance
+SEC^ GROUPED
+GR^ Encumber
+IPA^ ɪnˈkʌm.brəns
+DEF^n^ Sth that encumbers
+EX^ The financial *encumbrance* of student loans made it challenging for her to save for a house.
+
+WORD^ Unencumbered
+SEC^ GROUPED
+GR^ Encumber
+IPA^ ˌʌn.ɪn'kʌm.bɚd
+DEF^v^ With no encumbrance
+EX^ Traveling light, he moved through the city *unencumbered* by heavy luggage.
+EX^ Living an *unencumbered* lifestyle, he enjoyed the freedom to pursue his passions without financial worries.
+
+WORD^ Evoke
+SEC^ GROUPED
+GR^ Evoke
+IPA^ ɪˈvoʊk
+DEF^v^ Make sb remember/feel sth
+EX^ That smell always *evokes* memories of my old school.
+EX^ The detergent was designed to *evoke* the fresh smell of summer meadows.
+
+WORD^ Evocative
+SEC^ GROUPED
+GR^ Evoke
+IPA^ ɪ'vɑː.kə.t̬ɪv
+DEF^adj^ Able to evoke sth pleasant
+EX^ The *evocative* smell of pine trees always reminds her of holidays in the mountains.
+EX^ The artist's work is highly *evocative*, capturing the essence of childhood innocence.
+
+WORd^ Evocation
+SEC^ GROUPED
+GR^ Evoke
+IPA^ ˌev.ə'keɪ.ʃən
+DEF^n^ The act of evoking a feeling
+EX^ The film director's skillful *evocation* of the past brought history to life on the screen.
+EX^ The scent of jasmine in the air was an immediate *evocation* of her childhood garden.
+
+WORD^ Incumbent
+SEC^ GROUPED
+GR^ Incumbent
+IPA^ ɪnˈkʌm.bənt
+DEF^adj^ Officially having the named position
+EX^ The *incumbent* president faces problems which began many years before he took office.
+EX^ The *incumbent* senator is campaigning for re-election this fall.
+DEF^adj^ To be necessary for sb
+EX^ She felt it was *incumbent upon/on* her to raise the subject at their meeting.
+EX^ It is *incumbent upon/on* all employees to adhere to the company's code of conduct.
+
+WORD^ Incumbency
+SEC^ GROUPED
+GR^ Incumbent
+IPA^ ɪnˈkʌm.bən.si
+DEF^n^ The period during which sb has a particular official position
+EX^ During her *incumbency*, the mayor successfully implemented several key infrastructure projects that benefited the city.
+EX^ His *incumbency* was marked by a period of significant growth and development within the company.
+
+WORD^ Oracular
+SEC^ FAMILIAL
+GR*^ Oracle
+IPA^ ɔːr'æk.jə.lɚ
+DEF^adj^ Mysterious and difficult to understand, but probably wise
+EX^ The author's *oracular* writing style made her novels feel like they were filled with ancient wisdom and prophecy.
+EX^ His *oracular* pronouncements often left his followers pondering their deeper meanings for days.
+
+WORD^ Orbicular
+SEC^ FAMILIAL
+GR*^ Orb
+IPA^ ɔːr'bɪk.jə.lɚ
+DEF^adj^ Shaped like an orb
+EX^ The *orbicular* shape of the ancient coins made them easy to stack and store.
+
+WORD^ Seclude
+SEC^ GROUPED
+GR^ Seclude
+IPA^ sə'kluːd
+DEF^v^ To keep sb/sth away from the others
+EX^ Typically, the bride would *seclude* herself in another room.
+EX^ He decided to *seclude* himself in a remote cabin to fnish his novel without distractions.
+
+WORD^ Seclusive
+SEC^ GROUPED
+GR^ Seclude
+IPA^ sɪ'kluː.sɪv
+DEF^v^ Preferring to be secluded
+EX^ His *seclusive* nature meant that he often spent weekeneds alone, enjoying the solitude of his countryside home.
+EX^ After the highly publicized incident, the actress became more *seclusive*, avoiding the spotlight and media attention.
+
+WORD^ Seclusion
+SEC^ GROUPED
+GR^ Seclude
+IPA^ sə'kluː.ʒən
+DEF^v^ The state of being secluded
+EX^ After months of busy city life, he craved the peace and *seclusion* of the countryside.
+EX^ The artist's retreat offered perfect *seclusion* for those seeking inspiration in solitude.
+EX^ The monk lived in *seclusion*, dedicating his life to meditation and prayer.
+
+WORD^ Secular
+SEC^ GROUPED
+GR^ Sacred
+IPA^ 'sek.jə.lɚ
+DEF^adj^ Not having any connection with religion
+EX^ The school follows a *secular* curriculum, focusing on academic subjects rather than religious teachings.
+EX^ In many countries, *secular* laws ensure that government and religion are kept separate.
+
+WORD^ Sacred
+SEC^ GROUPED
+GR^ Sacred
+IPA^ 'seɪ.krɪd
+DEF^adj^ Deemed as holy due to being connected to gods
+EX^ At the *sacred* template, visitors are expected to show reverence and respect.
+EX^ She felt a *sacred* bond with nature, finding peace and solace in the forest.
+
+WORD^ Vehicular
+SEC^ FAMILIAL
+GR*^ Vehicle
+IPA^ viː'hɪk.jə.lɚ
+DEF^adj^ Relating to vehicles
+EX^ Barricades were put in place to block all *vehicular* traffic.
+EX^ The house has no *vehicular* access but can be reached by a short walk across the fields.
+
+WORD^ Ignominy
+SEC^ GROUPED
+GR^ Ignominy
+IPA^ 'ɪɡ.nə.mɪ.ni
+DEF^n^ Public embarrassment
+EX^ The incumbent party experienced the *ignominy* of total defeat in the last election.
+
+WORD^ Ignominious
+SEC^ GROUPED
+GR^ Ignominy
+IPA^ ˌɪɡ.nə'mɪn.i.əs
+DEF^adj^ Embarrassing because of being a complete failure
+EX^ The soldier's *ignominious* retreat from the battlefield was a blow to his honor.
+EX^ The team's *ignominious* defeat in the championship game was unexpected and humiliating.
+
+WORD^ Elate
+SEC^ THE
+IPA^ iˈleɪt
+DEF^v^ Make sb feel extremely happy and excited, especially because sth good has happened or been achieved.
+EX^ The news of her promotion *elated* her.
+EX^ She felt *elated* after hearing that she had passed the exam with flying colors.
+
+WORD^ Fiasco
+SEC^ THE
+IPA^ fi'æs.koʊ
+DEF^n^ A plan that turned into a complete failure
+EX^ The company experienced several *fiascoes* before finally raking in.
+
+WORD^ Mesmerism
+SEC^ GROUPED
+GR^ Mesmerism
+IPA^ 'mez.mər.ɪ.zəm
+DEF^n^ The act of hypnotizing sb into a deeper mental state
+EX^ In literature, characters who possess a magnetic or hypnotic charm often evoke the concept of *mesmerism*.
+
+WORD^ Mesmerist
+SEC^ GROUPED
+GR^ Mesmerism
+IPA^ 'mez.mər.ɪst
+DEF^n^ Sb who mesmerizes
+EX^ The *mesmerist* performed a series of hypnotic inductions, fascinating the audience with his skills.
+
+WORD^ Mesmerize
+SEC^ GROUPED
+GR^ Mesmerism
+IPA^ 'mez.mə.raɪz
+DEF^v^ To captivate sb completely
+EX^ She was *mesmerized* by the beauty of the sunset, unable to look away from the vibrant colors.
+
+WORD^ Debacle
+SEC^ THE
+IPA^ dɪ'bɑː.kəl
+DEF^n^ A sudden and ignominious failure / A fiasco
+EX^ The collapse of the company was describe as the greatest financial *debacle* in US history.
+EX^ The launch turned into a *debacle* when technical issues prevented the new product from working as advertised.
+
+WORD^ Allot
+SEC^ FAMILIAL
+GR*^ Allot
+IPA^ ə'lɑːt
+DEF^v^ To allocate a proportion of sth for a particular purpose
+EX^ They *allotted* everyone a separate desk.
+EX^ The ministry of culture will be *allotted* about 15% less this year.
+EX^ Three hours have been *allotted* to/for this task.
+EX^ The museum is planning to increase the amount of space *allotted* to modern art.
+
+WORD^ Allotment
+SEC^ FAMILIAL
+GR*^ Allot
+IPA^ ə'lɒtm(ə)nt
+DEF^n^ The allotted amount / The act of allotting
+EX^ Each student received an *allotment* of supplies for the art class.
+EX^ We have used up this year's *allotment* of funds.
+
+WORD^ Allotmenteer
+SEC^ FAMILIAL
+GR*^ Allot
+IPA^ əˌlɑːt.mən'tɪr
+DEF^n^ Sb who rents an allotment (a piece of ground for gardening)
+EX^ As an enthusiastic *allotmenteer*, she spends most weekends tending to her plot, ensuring a bountiful harvest.
+
+WORD^ Serpentine
+SEC^ FAMILIAL
+GR*^ Serpent
+IPA^ 'sɝː.pən.taɪn
+DEF^adj^ Curving/Twisting like a serpent
+EX^ We followed the *serpentine* course of the river.
+EX^ Her *serpentine* movements on the dance floor mesmerized everyone in the room.
+DEF^adj^ Complicated/Difficult to understand
+EX^ The film's *serpentine* plot was difficult to follow.
+
+WORD^ Serrate
+SEC^ THE
+IPA^ 'sɛreɪt
+DEF^adj^ Having a notched/saw-like edge
+EX^ The *serrate* leaves of the plant helped it trap water efficiently.
+
+WORD^ Intuit
+SEC^ FAMILIAL
+GR*^ Intuition
+IPA^ ɪn'tuː.ɪt
+DEF^v^ To understand/work out using intuition
+EX^ She could *intuit* without him having to say a word.
+
+WORD^ Intuitive
+SEC^ FAMILIAL
+GR*^ Intuition
+IPA^ ɪnˈtuː.ɪ.t̬ɪv
+DEF^adj^ Based on intuition rather than facts/proof
+EX^ Her *intuitive* sense of direction often helped them find their way.
+
+WORD^ Eulogy
+SEC^ GROUPED
+GR^ Eulogy
+IPA^ 'juː.lə.dʒi
+DEF^n^ A tribute for sb who has recently passed away
+EX^ She delivered a heartfelt *eulogy*, paying tribute to her father's life and legacy.
+EX^ He *gave the eulogy* at his father's funeral.
+EX^ The song was a *eulogy* to the joys of travelling.
+
+WORD^ Eulogist
+SEC^ GROUPED
+GR^ Eulogy
+IPA^ 'juː.lə.dʒɪst
+DEF^n^ Sb who delivers a eulogy
+EX^ He had chosen the *eulogists* for his funeral.
+EX^ The *eulogists'* words were filled with admiration, painting a vivid picture of the life that was lost.
+
+WORD^ Eulogistic
+SEC^ GROUPED
+GR^ Eulogy
+IPA^ ˌjuː.lə'dʒɪs.tɪk
+DEF^adj^ Having the qualities of a eulogy
+EX^ Her *eulogistic* remarks during the ceremony highlighted the many accomplishments of the honored guest.
+EX^ The article was filled with *eulogistic* language, praising the artist's groundbreaking work.
+EX^ His *eulogistic* at the memorial service brought tears to the eyes of many attendees.
+
+WORD^ Eulogize
+SEC^ GROUPED
+GR^ Eulogy
+IPA^ 'juː.lə.dʒaɪz
+DEF^v^ To praise highly in speech/writing (not necessarily about dead people)
+EX^ At the award ceremony, the speaker *eulogized* the achievements of the winner.
+
+WORD^ Tribute
+SEC^ FAMILIAL
+GR*^ Tribute
+IPA^ 'trɪb.juːt
+DEF^n^ Sth that shows gratitude/respect/admiration for sb
+EX^ The community built a statue as a *tribute* to the firefighter's bravery.
+EX^ *Tributes* have been pouring in from all over the world for the famous actor who died yesterday.
+EX^ Floral *tributes* piled up at the scene of the tragic accident.
+
+WORD^ Tributary
+SEC^ FAMILIAL
+GR*^ Tribute
+IPA^ 'trɪb.jə.ter.i
+DEF^n^ A river/stream that flows into a larger one
+EX^ The Đà River is a lesser *tributary* of The Red River.
+DEF^adj^ Paying tribute to another greater force
+EX^ The *tributary* states were required to send annual payments to the ruling empire.
+EX^ In medieval times, many small kingdoms existed in a *tributary* relationship with their more powerful neighbors.
+
+WORD^ Parole
+SEC^ THE
+IPA^ pə'roʊl
+DEF^n^ Permission for the prisoner to be released before the finish of their sentence
+EX^ He's been released on *parole*.
+EX^ She hopes to be eligible for *parole* in three years.
+EX^ Reynolds was sentenced to life without *parole*.
+
+WORD^ Equivoque
+SEC^ FAMILIAL
+GR*^ Equivocate
+IPA^ 'ɛkwɪvəʊk
+DEF^n^ An expression with more than one meaning / A pun
+EX^ The politician's speech was full of *equivoques*, leaving the audience unsure of his true stance.
+EX^ The poet's clever *equivoque* made the audience smile as they picked up on the double meaning.
+
+WORD^ Recluse
+SEC^ GROUPED
+GR^ Recluse
+IPA^ 'rek.luːs
+DEF^n^ A socially anxious fellow who is avoidant of other people
+EX^ The old man was known as a *recluse*, rarely seen outside his home.
+
+WORD^ Reclusive
+SEC^ GROUPED
+GR^ Recluse
+IPA^ rɪ'kluː.sɪv
+DEF^adj^ Characterized by a preference for solitude and isolation from society
+EX^ His *reclusive* lifestyle made him a mystery to his neighbors.
+
+WORD^ Odium
+SEC^ GROUPED
+GR^ Odium
+IPA^ 'oʊ.di.əm
+DEF^n^ Hate and strong disapproval
+EX^ The politician's corrupt actions brought *odium* upon him.
+EX^ He faced *odium* from the public after the revelation of his scandalous actions.
+
+WORD^ Odious
+SEC^ GROUPED
+GR^ Odium
+IPA^ 'oʊ.di.əs
+DEF^adj^ Causing the others to feel odium
+EX^ The *odious* stench from the garbage made everyone cover their noses.
+EX^ His *odious* remarks during the meeting offended everyone present.
+
+WORD^ Sermon
+SEC^ GROUPED
+GR^ Sermon
+IPA^ 'sɝː.mən
+DEF^n^ A long yap in which sb advises other people how to behave in order to be better people
+EX^ The pastor's *sermon* on compassion moved many members of the congregation to tears.
+EX^ I really don't think it's a politician's job to go delivering *sermons* on public morality.
+
+WORD^ Sermonize
+SEC^ GROUPED
+GR^ Sermon
+IPA^ 'sɝː.mə.naɪz
+DEF^v^ To deliver a sermon
+EX^ Rather than chatting friendly, he would often *sermonize*, making conversations feel more like a moral lesson.
+EX^ Whenever the topic of conservation came up, he would *sermonize* at length, emphasizing the need for immediate action.
+
+WORD^ Rut
+SEC^ MONO
+IPA^ rʌt
+DEF^n^ Deep, narrow tracks made on soft ground by a wheel
+EX^ The heavy trucks left deep *ruts* in the muddy road.
+DEF^n^ The period of mating in certain male mammals, especially deer/sheep
+EX^ During the *rut*, stags can be seen fighting for females.
+EX^ The bull elephant seal only puts on this display when in *rut*.
+
+WORD^ Hermit
+SEC^ GROUPED
+GR^ Hermit
+IPA^ 'hɝː.mɪt
+DEF^n^ Sb who chooses to live in solitude for various reasons
+EX^ The old *hermit* lived alove in a secluded cabin in the woods.
+
+WORD^ Hermitage
+SEC^ GROUPED
+GR^ Hermit
+IPA^ 'hɝː.mɪ.t̬ɪdʒ
+DEF^n^ The dwelling of a hermit
+EX^ She visited the *hermitage* to experience the peace and solitude it brings.
+
+WORD^ Anchorite
+SEC^ THE
+IPA^ 'æŋ.kɚ.aɪt
+DEF^n^ A religious recluse who chooses to live in solitude
+EX^ During the Middle Ages, many *anchorites*, such as Julian of Norwich, were well-known for their spiritual writings and profound insights.
+EX^ Though rare today, some individuals still embrace an *anchoritic* lifestyle, seeking solitude and quiet contemplation away from the distractions of modern society.
+
+WORD^ Jolt
+SEC^ MONO
+IPA^ dʒoʊlt
+DEF^v^ To (cause sb/sth to) move suddenly and violently
+EX^ The train stopped unexpectedly and we were *jolted* forward.
+EX^ The truck *jolted* along the rough track through the field.
+DEF^v^ To shock sb to change their behavior/way of thinking
+EX^ The charity used photos of starving children in an attempt to *jolt* the public conscience.
+
+WORD^ Concuss
+SEC^ GROUPED
+GR^ Concuss
+IPA^ kən'kʌs
+DEF^v^ To injure the brain by a sudden, violent impact
+EX^ The player was *concussed* during the game after a hard tackle.
+
+WORD^ Concussion
+SEC^ GROUPED
+GR^ Concuss
+IPA^ kən'kʌʃ.ən
+DEF^n^ A brain injury caused by a blow/jolt to the head
+EX^ After the accident, he was diagnosed with a *concussion*.
+
+WORD^ Rave
+SEC^ MONO
+IPA^ reɪv
+DEF^n^ A lively party, involving dancing to electronic music
+EX^ They attended a *rave* that last until the early hours of the morning
+DEF^n^ Praise
+EX^ Her inspiring speech drew *raves* from everyone.
+DEF^v^ To express praise/admiration enthusiastically
+EX^ Everyone is *raving* about that new Vietnamese restaurant.
+DEF^v^ To speak in an uncontrolled way, because of being upset/angry/ill
+EX^ He's always *raving* on about the government
+EX^ She was ranting and *raving* about some imagined insult.
+
+WORD^ Downcast
+SEC^ THE
+IPA^ 'daʊn.kæst
+DEF^adj^ Sad and without hope, with eyes/gaze directed downward
+EX^ His *downcast* eyes avoided meeting hers, revealing his disappointment.
+EX^ Despite the good news, he remained *downcast*, unable to shake off his earlier mood.
+
+WORD^ Illustrious
+SEC^ FAMILIAL
+GR*^ Illustrate
+IPA^ ɪˈlʌs.tri.əs
+DEF^adj^ Famous, well-respected, and admired
+EX^ The scientist's *illustrious* career was marked by numerous groundbreaking discoveries.
+EX^ She comes from an *illustrious* political family that includes two former ministers.
+
+WORD^ Dejection
+SEC^ FAMILIAL
+GR*^ Dejected
+IPA^ dɪ'dʒek.ʃən
+DEF^n^ The state of being dejected (unhappy/disappointed with no hope)
+EX^ He wandered around the house in utter *dejection*.
+EX^ She felt *dejected* after receiving the disappointing news.
+
+WORD^ Mope
+SEC^ MONO
+IPA^ moʊp
+DEF^v^ To be gloomy/depressed
+EX^ After hearing the bad news, he spent the whole day *moping* around the house.
+EX^ She *moped* in her room, feeling sorry for herself after the argument with her friend.
+
+WORD^ Bray
+SEC^ MONO
+IPA^ breɪ
+DEF^v^ To make a cry resembling that of a donkey/mule
+EX^ The donkey *brayed* loudly, echoing across the fields.
+EX^ His *braying* laughter was so loud that it drew everyone's attention in the room.
+EX^ The politician's *bray* was heard over the clamor of the crowd, making his presence known.
+
+WORD^ Bawl
+SEC^ MONO
+IPA^ bɑːl
+DEF^v^ To shout loudly
+EX^ She *bawled* at me to sit down.
+EX^ After hearing the sad news, she *bawled* her eyes out for hours.
+EX^ The toddler started to *bawl* when his toy was taken away.
+
+WORD^ Shimmer
+SEC^ THE
+IPA^ 'ʃɪm.ɚ
+DEF^v^ To shine with a subtle, wavering light, creating a sense of movement/sparkle
+EX^ The lake's surface *shimmered* under the moonlight, creating a magical scene.
+EX^ Her dress was covered in sequins that *shimmered* as she moved.
+
+WORD^ Clamor
+SEC^ GROUPED
+GR^ Clamor
+IPA^ 'klæm.ɚ
+DEF^v^ To make a loud complaint/demand.
+EX^ She *clamors* to go home as soon as she gets to school.
+EX^ The children were all *clamoring* for attention.
+
+WORD^ Clamorous
+SEC^ GROUPED
+GR^ Clamor
+IPA^ 'klæm.ɚ.əs
+DEF^adj^ Clamoring
+EX^ The *clamorous* children were difficult to control during the assembly.
+
+WORD^ Revelation
+SEC^ FAMILIAL
+GR*^ Reveal
+IPA^ ˌrev.ə'leɪ.ʃən
+DEF^n^ The act of revealing
+EX^ The *revelation* of the secret plan shocked everyone in the room.
+
+WORD^ Steadfast
+SEC^ THE
+IPA^ 'sted.fæst
+DEF^adj^ Staying the same for a long time, unwavering
+EX^ They had a *steadfast* friendship, always standing up for each other.
+EX^ The group remained *steadfast* in its support for the new system, even when it was criticized in the newspapers.
+
+WORD^ Scrutinize
+SEC^ FAMILIAL
+GR*^ Scrutiny
+IPA^ 'skruː.t̬ən.aɪz
+DEF^v^ To examine/inspect closely and carefully
+EX^ The government's record will be closely *scrutinized* in the weeks before the election.
+
+WORD^ Scrutineer
+SEC^ FAMILIAL
+GR*^ Scrutiny
+IPA^ ˌskruː.t̬ən'ɪr
+DEF^n^ The one who counts the votes/recheck the votes in an election
+EX^ The *scrutineer* was inculpated for fraud after an invesgation revealed tampering with the election results.
+
+WORD^ Jeopardy
+SEC^ THE
+IPA^ 'dʒep.ɚ.di
+DEF^n^ Danger of loss, harm, or failure
+EX^ The lives of thousands of birds are in *jeopardy* as a result of the oil spill.
+
+WORD^ Waltz
+SEC^ MONO
+IPA^ wɑːlts
+DEF^v^ To walk confidently, quickly, annoying the others
+EX^ You can't just *waltz* into my bedroom without knocking - it's private!
+
+WORD^ Ornery
+SEC^ THE
+IPA^ 'ɔːr.nɚ.i
+DEF^adj^ Quick to get angry / Bad-tempered
+EX^ The *ornery* cat hissed at anyone who came too close.
+EX^ The *ornery* old man refused to let anyone help him, despite clearly needing assistance.
+
+WORD^ Eschew
+SEC^ THE
+IPA^ ɪs'tʃuː
+DEF^v^ To avoid sth intentionally
+EX^ He decided to *eschew* fast food in favor of a healthier diet.
+EX^ He *eschewed* the trappings of wealth, wearing scruffy clothes and travelling around by bus.
+EX^ We won't have discussions with this group unless they *eschew* violence.
+
+WORD^ Brittle
+SEC^ THE
+IPA^ 'brɪt̬.əl
+DEF^adj^ Delicate / Easily broken
+EX^ The pond was covered in a *brittle* layer of ice.
+EX^ With old age come *brittle* bones.
+
+WORD^ Acute
+SEC^ GROUPED
+GR^ Acute
+IPA^ ə'kjuːt
+DEF^adj^ Sharp / Intense
+EX^ He felt an *acute* pain in his chest.
+EX^ The patient was in *acute* distress.
+
+WORD^ Castigate
+SEC^ THE
+IPA^ 'kæs.tə.ɡeɪt
+DEF^v^ To criticize severely
+EX^ Health inspectors *castigated* the kitchen staff for poor standards of cleanliness.
+EX^ The coach was known to *castigate* his players in public, a method that some found motivating and others found humiliating.
+
+WORD^ Obtuse
+SEC^ GROUPED
+GR^ Acute
+IPA^ ɑːb'tuːs
+DEF^adj^ Dull / Blunt
+EX^ The knife was too *obtuse* to cut the vegetables properly.
+DEF^adj^ To be slow on the uptake
+EX^ He was often accused of being *obtuse*, taking forever to fully grasp even the simplest mathematical concepts.
+
+WORD^ Shirk
+SEC^ MONO
+IPA^ ʃɝːk
+DEF^v^ To avoid duty / work / responsibilities
+EX^ He was accused of *shirking* his duties at the office, often leaving tasks unfinished.
+EX^ She always finds a way to *shirk* her household chores, leaving them for others to complete.
+
+WORD^ Maim
+SEC^ MONO
+IPA^ meɪm
+DEF^v^ To wound or injure permanently.
+EX^ The vicious attack by the animal *maimed* the hiker, resulting in the loss of a limb.
+EX^ The criminal's brutal actions *maimed* his victims, causing severe physical and emotional trauma.
+
+WORD^ Vicarious
+SEC^ THE
+IPA^ vɪ'ker.i.əs
+DEF^adj^ Experienced through observation
+EX^ She felt a *vicarious* thrill watching her friend skydive, imagining the rush of adrenaline herself.
+EX^ He lived *vicariously* through his children's achievements, taking pride in their accomplishments as if they were his own.
+
+WORD^ Profusion
+SEC^ FAMILIAL
+GR*^ Profuse
+IPA^ prəˈfjuː.ʒən
+DEF^n^ An extremely large amount of smth
+EX^ The artist's work was celebrated for its *profusion* of colors.
+EX^ I was remarking on the recent *profusion* of books and articles on the matter.
+
+WORD^ Ruse
+SEC^ MONO
+IPA^ ruːz
+DEF^n^ A trick intended to deceive
+EX^ The detective saw through the criminal's *ruse* and caught him red-handed.
+
+WORD^ Indigent
+SEC^ THE
+IPA^ 'ɪndɪdʒ(ə)nt
+DEF^adj^ Poor, needy
+EX^ The charity organization provides food and shelter for *indigent* people.
+
+WORD^ Ingénue
+SEC^ THE
+IPA^ 'ãʒən(j)uː
+DEF^n^ [In films and plays] An innocent or naive woman
+EX^ She was cast as the *ingénue* in the new Broadway production, capturing the audience's hearts with her portrayal of innocence.
+
+WORD^ Indigenous
+SEC^ FAMILIAL
+GR*^ Indigenous
+IPA^ ɪn'dɪdʒ.ə.nəs
+DEF^adj^ Being an indigene
+EX^ Many *indigenous* cultures have rich traditions and deep connections to their ancestral lands.
+EX^ The panda is *indigenous* to certain mountainous regions in China.
+
+WORD^ Indigene
+SEC^ FAMILIAL
+GR*^ Indigenous
+IPA^ 'ɪndɪdʒiːn
+DEF^n^ Sb / Sth that is native to a particular place or region
+EX^ The *indigenes* of the island have a rich cultural heritage passed down through generations.
+
+WORD^ Ingenious
+SEC^ FAMILIAL
+GR*^ Ingenious
+IPA^ ɪn'dʒiːnɪəs
+DEF^adj^ Clever and resourceful
+EX^ She came up with an *ingenious* plan to solve the issue quickly.
+
+WORD^ Ingenuity
+SEC^ FAMILIAL
+GR*^ Ingenious
+IPA^ ˌɪndʒɪ'njuːɪti
+DEF^n^ The quality of being ingenious
+EX^ Her *ingenuity* led to the creation of a device that could solve multiple problems at once.
+
+WORD^ Ingenuous
+SEC^ THE
+IPA^ ɪn'dʒɛnjʊəs
+DEF^adj^ Candid and innocent
+EX^ He gave an *ingenuous* response, without any hesitation or pretense.
+
+WORD^ Grotesque
+SEC^ THE
+IPA^ ɡroʊ'tesk
+DEF^adj^ Unnaturally odd or distorted in a way that is silly or repulsive
+EX^ By now she'd had so much cosmetic surgery that she looked quite *grotesque*.
+EX^ Gothic churches are full of devils and *grotesque* figures.
+
+WORD^ Continuum
+SEC^ FAMILIAL
+GR*^ Continue
+IPA^ kən'tɪn.ju.əm
+DEF^n^ Sth that extends into slight stages with no clear diving points
+EX^ Temperature can be viewed as a *continuum*, with no sharp boundaries between hot and cold.
+
+WORD^ Biddable
+SEC^ FAMILIAL
+GR*^ Bid
+IPA^ 'bɪd.ə.bəl
+DEF^adj^ Able to be led / controlled easily
+EX^ He was a *biddable* employee, always ready to take on any task given by his boss.
+EX^ The *biddable* child always listened to her parents and teachers.
+
+WORD^ Ware
+SEC^ MONO
+IPA^ wer
+DEF^n^ Products / Goods 
+EX^ The market was bustling with vendors selling their *wares*, from fresh produce to handmade crafts.
+DEF^n^ [In sales] Used to refer to objects of the same material or type
+EX^ The factory produces a variety of *glassware*, including bottles and jars.
+
+WORD^ Pare
+SEC^ MONO
+IPA^ per
+DEF^v^ To peel the outer layer using a knife
+EX^ Remember to *pare* the apple before eating it.
+DEF^v^ To reduce sth to its essential elements
+EX^ We need to *pare* the report down to its most important points.
+DEF^v^ To diminish or reduce sth in size, extent, or quantity gradually
+EX^ The company plans to *pare* down its workforce by 10%.
+
+WORD^ Foal
+SEC^ MONO
+IPA^ foʊl
+DEF^n^ A young horse
+EX^ The mare gave birth to a healthy *foal* in the early hours of the morning.
+
+WORD^ Mare
+SEC^ MONO
+IPA^ mɛ:
+DEF^n^ Female equine animal (Horse, zebra, donkeys,...)
+EX^ The *mare* gave birth to a healthy foal in the early hours of the morning.
+
+WORD^ Net
+SEC^ MONO
+IPA^ net
+DEF^adj^ Remaining after deductions
+EX^ Her *net* income after taxes is so low that she has set her sights on tax evasion.
+DEF^adj^ Final / overall, after all the important aspects have been considered
+EX^ The *net* effect of the changes was positive.
+
+WORD^ Gross
+SEC^ MONO
+IPA^ ɡroʊs
+DEF^n^ Twelve dozen
+EX^ We ordered *a gross of* pencil for the school. (12 x 12 = 144 pencils)
+DEF^v^ To earn a particular amount before deductions
+EX^ The movie *grossed* over $1 billion worldwide.
+DEF^adj^ The total amount before deductions
+EX^ Her *gross* income before taxes is quite high.
+DEF^adj^ Repulsive
+EX^ The public restroom was in *gross* condition.
+DEF^adj^ Blatant
+EX^ His *gross* negligence led to the accident.
+
+WORD^ Tare
+SEC^ MONO
+IPA^ ter
+DEF^n^ The weight of an empty container
+EX^ The *tare* weight of the container and the *net* weight of the products inside add up to the *gross* weight of the truck.
+
+WORD^ Fare
+SEC^ MONO
+IPA^ fɛ:
+DEF^n^ Public transport fee
+EX^ We should go to Seville, but we cannot afford the air *fare*.
+DEF^v^ To perform
+EX^ How did you *fare* on your finals?
+EX^ His business has *fared* badly in recent years.
+EX^ After moving, she *fared* well and quickly made new friends.
+
+WORD^ Palpable
+SEC^ THE
+IPA^ 'palpəbl
+DEF^adj^ So intense as to seem almost tangible
+EX^ The *palpable* exciment lingered in the air as the concert about to start.
+DEF^adj^ Plain to see or comprehend
+EX^ The disappointment in the audience was *palpable*, as their collective sigh filled the room.
+
+WORD^ Stark
+SEC^ MONO
+IPA^ stɑ:k
+DEF^adj^ Severe or bare in appearance or outline
+EX^ The ridge formed a *stark* silhouette against the sky.
+DEF^adj^ Unpleasantly or sharply clear
+EX^ His ideals are in *stark* contrast to that of his opponent.
+DEF^adj^ Complete, sheer
+EX^ He came running back in *stark* terror.
+
+WORD^ Placid
+SEC^ THE
+IPA^ 'plæs.ɪd
+DEF^adj^ Having a calm appearance or characteristics.
+EX^ She was a very *placid* child who slept all night and hardly ever cried.
+
+WORD^ Equable
+SEC^ THE
+IPA^ 'ek.wə.bəl
+DEF^adj^ Always being pleasant
+EX^ Graham has a fairly *equable* temperament; He is never angry.
+EX^ Despite the stressful environment, she remained *equable* and composed.
+DEF^adj^ Not changing suddenly
+EX^ The region is known for its *equable* climate, with mild temperatures year-round.
+
+WORD^ Quagmire
+SEC^ THE
+IPA^ 'kwæɡ.maɪr
+DEF^n^ Quicksand but wet and is made out of dirt
+EX^ I fell into a *quagmire*, created by the torrential rain.
+DEF^n^ A difficult and dangerous situation
+EX^ He found himself in a *quagmire* after investing in a failing company.
+
+WORD^ Jabroni
+SEC^ THE
+IPA^ dʒə'brəʊni
+DEF^n^ A foolish or contemptible person
+EX^ Don't listen to him; He's just a *jabroni* who likes to cause trouble.
+
+WORD^ Docile
+SEC^ THE
+IPA^ 'dɑ:.səl
+DEF^n^ Quiet and easy to influence, persuade, or control
+EX^ The *docile* dog obeyed every command.
+EX^ The once *docile* population finally rose up against the regime.
+
+WORD^ Purge
+SEC^ MONO
+IPA^ ɝ:dʒ
+DEF^v^ Rid sb / sth of an unwanted quality, condition, or feeling
+EX^ Bob had helped *purge* Martha of the terrible guilt that haunted her.
+DEF^v^ = Expel abruptly
+EX^ He *purged* all but 26 of the central committee members.
+
+WORD^ Purgatory
+SEC^ FAMILIAL
+GR*^ Purge
+IPA^ 'pɝ:.ɡə.tɔːr.i
+DEF^n^ An extremely unpleasant experience 
+EX^ I have been on a diet for two weeks now, and it's *purgatory*!
+
+WORD^ Strait
+SEC^ MONO
+IPA^ streɪt
+DEF^n^ A narrow area of sea that connects two larger areas of sea
+DEF^n^ [Usually of finance] A difficult situation
+EX^ So many companies are in such difficult *straits* that their prices have to come right down.
+EX^ The company found itself in financial *straits* after the market crash.
+DEF^adj^ Narrow / Confined
+EX^ The *strait* pathway through the forest was hard to navigate.
+
+WORD^ Smokestack
+SEC^ THE
+IPA^ 'smoʊk.stæk
+DEF^n^ A tall pipe that pumps exhaust gas out of a factory
+EX^ Residents complained that fumes from the *smokestacks* made breathing difficult.
+
+WORD^ Brine
+SEC^ MONO
+IPA^ braɪn
+DEF^n^ Water with salt in it (literally) (nác mói reference) (used for cookery)
+EX^ She prepared a *brine* with water, salt, and spices to soak the turkey overnight.
+
+WORD^ Barring
+SEC^ THE
+IPA^ 'bɑ:rɪŋ
+DEF^ = Should there be no
+EX^ *Barring* accidents, we should win.
+EX^ We should arrive at 10, *barring* any unexpected delays.
+
+WORD^ Singe
+SEC^ MONO
+IPA^ sɪndʒ
+DEF^n^ A slight burn or scorch mark
+EX^ A *singe* could be seen seen on the edge of the table.
+DEF^v^ To burn superficially or lightly
+EX^ She *singed* her hair while trying to light the candle.
+
+WORD^ Whizz
+SEC^ MONO
+IPA^ wɪz
+DEF^v^ To move / do smth very fast
+EX^ A police car *whizzed* by, on its way to the accident.
+EX^ We *whizzed* through the rehearsal, so that we'd be finished by lunchtime.
+DEF^n^ A highly proficient individual
+EX^ He's a *whizz* at poker.
+EX^ An Arch user is invariably a computer *whizz*.
+
+WORD^ Plough
+SEC^ MONO
+IPA^ plaʊ
+DEF^v^ To turn over the soil for crops
+EX^ They *ploughed* the field early in the morning.
+DEF^n^ A tool used for ploughing
+EX^ The farmer used a *plough* to prepare the fields for sowing seeds.
+
+WORD^ Palpitate
+SEC^ THE
+IPA^ 'palpɪteɪt
+DEF^v^ [Of the heart] To shake / tremble
+EX^ Her heart *palpitated* with excitement.
+
+WORD^ (Im)Miscible
+SEC^ FAMILIAL
+GR*^ Mix
+IPA^ (ɪ)'mɪsɪbl
+DEF^adj^ [Of liquids] Able to combine into a homogeneous mixture
+EX^ Oil and water are *immiscible*, i. e. they form separate layers once combined.
+
+WORD^ Aestivate
+SEC^ FAMILIAL
+GR*^ Hibernate
+IPA^ 'i:stɪveɪt
+DEF^v^ To remain dormant during a prolonged hot, dry period
+EX^ The tortoises *aestivate* during the summer.
+
+WORD^ Conscientious
+SEC^ FAMILIAL
+GR*^ Conscience
+IPA^ ˌkɑ:n.ʃi'en.ʃəs
+DEF^adj^ Being responsible and putting effort into one's work
+EX^ Greg Dick is a *conscientious* worker who will be an asset to our company.
+
+WORD^ Conscionable
+SEC^ FAMILIAL
+GR*^ Conscience
+IPA^ 'kɑ:n.ʃən.ə.bəl
+DEF^adj^ Morally acceptable
+EX^ The decision to continue with this project is just not *conscionable*.
+
+WORD^ Lope
+SEC^ MONO
+IPA^ loʊp
+DEF^v^ To move with long, bounding strides
+EX^ The lion *loped* across the grass.
+
+WORD^ Deplatform
+SEC^ FAMILIAL
+GR*^ Platform
+IPA^ ˌdi:'plæt.fɔːrm
+DEF^v^ Remove / Deny access to a (social media) platform
+EX^ He was *deplatformed* for his toxic behavior.
+
+WORD^ Customary
+SEC^ FAMILIAL
+GR*^ Custom
+IPA^ 'kʌstəmᵊri
+DEF^adj^ Usual
+EX^ She is not her *customary* cheerful self today.
+DEF^adj^ Traditional
+EX^ It is *customary* to take off your shoes upon entering a Japanese house.
+
+WORD^ Companionable
+SEC^ FAMILIAL
+GR*^ Company
+IPA^ kəm'pænjənəbl
+DEF^adj^ Friendly and sociable
+EX^ The dog was *Companionable* and loved being around people.
+
+WORD^ Cessation
+SEC^ FAMILIAL
+GR*^ Cease
+IPA^ se'seɪʃn
+DEF^n^ The act of ceasing
+EX^ They called for an immediate *cessation* of hostilities.
+
+WORD^ Incessant
+SEC^ FAMILIAL
+GR*^ Cease
+IPA^ ɪn'ses.ənt
+DEF^adj^ Gratingly ceaseless
+EX^ The *incessant* whining of the mosquitoes kept me up all night.
+
+WORD^ Ceaseless
+SEC^ FAMILIAL
+GR*^ Cease
+IPA^ 'si:sləs
+DEF^adj^ Unceasing
+EX^ The *ceaseless* waves crashed agains the shore.
+
+WORD^ Bulk
+SEC^ MONO
+IPA^ bʌlk
+DEF^n^ The main part of smth
+EX^ The *bulk* of the work was done by volunteers.
+DEF^n^ Size, mass
+EX^ He struggled to lift the *bulk* of the package.
+
+WORD^ Audacious
+SEC^ FAMILIAL
+GR*^ Audacity
+IPA^ ɔ:'deɪʃəs
+DEF^adj^ The quality of being bold / having the balls
+EX^ My *audacious* plan to climb the mountain surprised everyone.
+
+WORD^ Abound
+SEC^ FAMILIAL
+GR*^ Abundant
+IPA^ ə'baʊnd
+DEF^v^ To exist in large numbers
+EX^ In the vibrant forest where countless species reside, wildlife *abounds*.
+
+WORD^ Reconcile
+SEC^ GROUPED
+GR^ Reconcile
+IPA^ 'rɛ.kən.saɪl
+DEF^v^ To restore friendly relations.
+EX^ The siblings managed to *reconcile* their differences and become close again.
+
+WORD^ Conciliate
+SEC^ GROUPED
+GR^ Conciliate
+IPA^ kən'sɪl.i.eɪt
+DEF^v^ To placate / appease
+EX^ He tried to *conciliate* her with flowers and an apology.
+
+WORD^ Conciliatory
+SEC^ GROUPED
+GR^ Conciliate
+IPA^ kən'sɪl.i.ə.tɔ:r.i
+DEF^adj^ Showing willingness to conciliate.
+EX^ The UK government was not in a *conciliatory* mood and decided to nuke France.
+
+WORD^ Candor
+SEC^ FAMILIAL
+GR*^ Candid
+IPA^ 'kan.də
+DEF^n^ The quality of being candid
+EX^ The chairman was a young lad of refreshing *candor*.
+
+WORD^ Don
+SEC^ MONO
+IPA^ dɑ:n
+DEF^v^ Put on
+EX^ He *donned* his jacket before stepping out into the cold.
+
+WORD^ Dole
+SEC^ MONO
+IPA^ doʊl
+DEF^n^ Government aid (for the unemployed)
+EX^ He lost his job and had to go on the *dole*.
+EX^ The charity provided a weekly *dole* of food to the homeless.
