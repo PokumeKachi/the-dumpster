@@ -22,6 +22,14 @@
 ---
 
 \begin{center}
+{\LARGE Able}
+\end{center}
+# *Reablement*
+
+
+---
+
+\begin{center}
 {\LARGE Abundant}
 \end{center}
 # *Abound*
@@ -58,6 +66,16 @@
 \begin{center}
 {\LARGE Allot}
 \end{center}
+# *Allotment*
+
+#### [ ə'lɒtm(ə)nt]
+
+[ n ] The allotted amount / The act of allotting
+
+> *Each student received an **allotment** of supplies for the art class.*
+
+> *We have used up this year's **allotment** of funds.*
+
 # *Allotmenteer*
 
 #### [ əˌlɑːt.mən'tɪr]
@@ -79,16 +97,6 @@
 > *Three hours have been **allotted** to/for this task.*
 
 > *The museum is planning to increase the amount of space **allotted** to modern art.*
-
-# *Allotment*
-
-#### [ ə'lɒtm(ə)nt]
-
-[ n ] The allotted amount / The act of allotting
-
-> *Each student received an **allotment** of supplies for the art class.*
-
-> *We have used up this year's **allotment** of funds.*
 
 
 ---
@@ -162,13 +170,27 @@
 ---
 
 \begin{center}
-{\LARGE Burn}
+{\LARGE Bowel}
 \end{center}
-# *Back-burner*
+# *Disembowel*
 
 
 ---
 
+\begin{center}
+{\LARGE Breed}
+\end{center}
+# *Ill-breeding*
+
+
+---
+
+\begin{center}
+{\LARGE Burn}
+\end{center}
+# *Back-burner*
+
+\newpage
 \begin{center}
 {\LARGE Candid}
 \end{center}
@@ -180,7 +202,9 @@
 
 > *The chairman was a young lad of refreshing **candor**.*
 
-\newpage
+
+---
+
 \begin{center}
 {\LARGE Capsule}
 \end{center}
@@ -206,9 +230,7 @@
 
 > *In botany, certain fruits have **capsular** structures that enclose their seeds.*
 
-
----
-
+\newpage
 \begin{center}
 {\LARGE Cease}
 \end{center}
@@ -244,7 +266,9 @@
 \end{center}
 # *Foreclose*
 
-\newpage
+
+---
+
 \begin{center}
 {\LARGE Coal}
 \end{center}
@@ -254,13 +278,19 @@
 ---
 
 \begin{center}
-{\LARGE Command}
+{\LARGE Combat}
 \end{center}
-# *Commandeer*
+# *Non-combatant*
 
 
 ---
 
+\begin{center}
+{\LARGE Command}
+\end{center}
+# *Commandeer*
+
+\newpage
 \begin{center}
 {\LARGE Company}
 \end{center}
@@ -278,13 +308,21 @@
 \begin{center}
 {\LARGE Conscience}
 \end{center}
+# *Unconscionable*
+
+#### [ ʌnˈkɑːn.ʃən.ə.bəl]
+
+[ adj ] Morally unacceptable
+
+> *The decision to continue with this destructive nuclear project is just **unconscionable**.*
+
 # *Conscionable*
 
 #### [ 'kɑ:n.ʃən.ə.bəl]
 
 [ adj ] Morally acceptable
 
-> *The decision to continue with this project is just not **conscionable**.*
+> *The decision to continue with this destructive nuclear project is just not **conscionable**.*
 
 # *Conscientious*
 
@@ -308,11 +346,23 @@
 
 > *Temperature can be viewed as a **continuum**, with no sharp boundaries between hot and cold.*
 
-\newpage
+
+---
+
 \begin{center}
 {\LARGE Cry}
 \end{center}
 # *Lachrymose*
+
+\newpage
+\begin{center}
+{\LARGE Culprit}
+\end{center}
+# *Exculpate*
+
+# *Culpable*
+
+# *Inculpate*
 
 
 ---
@@ -356,9 +406,7 @@
 \end{center}
 # *Indelible*
 
-
----
-
+\newpage
 \begin{center}
 {\LARGE Demon}
 \end{center}
@@ -374,7 +422,9 @@
 
 > *During the holiday sale, the shopping mall was **in pandemonium**, with people scrambling to grab the best deals.*
 
-\newpage
+
+---
+
 \begin{center}
 {\LARGE Determine}
 \end{center}
@@ -385,6 +435,14 @@
 {\LARGE Diet}
 \end{center}
 # *Dietetics*
+
+
+---
+
+\begin{center}
+{\LARGE Direct}
+\end{center}
+# *Directive*
 
 
 ---
@@ -410,15 +468,13 @@
 
 > *He gave a **doleful** sigh as he looked at the empty house.*
 
-
----
-
+\newpage
 \begin{center}
 {\LARGE Doubt}
 \end{center}
-# *Redoubtable*
-
 # *Indubitable*
+
+# *Redoubtable*
 
 
 ---
@@ -434,7 +490,9 @@
 \begin{center}
 {\LARGE Dread}
 \end{center}
-\newpage
+
+---
+
 \begin{center}
 {\LARGE Elephant}
 \end{center}
@@ -476,9 +534,7 @@
 
 > *The poet's clever **equivoque** made the audience smile as they picked up on the double meaning.*
 
-
----
-
+\newpage
 \begin{center}
 {\LARGE Extra}
 \end{center}
@@ -498,7 +554,9 @@
 
 > *His **foolhardy** attempt to climb the mountain without proper gear ended in disaster.*
 
-\newpage
+
+---
+
 \begin{center}
 {\LARGE Grace}
 \end{center}
@@ -520,6 +578,14 @@
 ---
 
 \begin{center}
+{\LARGE House}
+\end{center}
+# *Hothouse*
+
+
+---
+
+\begin{center}
 {\LARGE Illustrate}
 \end{center}
 # *Illustrious*
@@ -532,9 +598,7 @@
 
 > *She comes from an **illustrious** political family that includes two former ministers.*
 
-
----
-
+\newpage
 \begin{center}
 {\LARGE Indigenous}
 \end{center}
@@ -556,7 +620,9 @@
 
 > *The panda is **indigenous** to certain mountainous regions in China.*
 
-\newpage
+
+---
+
 \begin{center}
 {\LARGE Ingenious}
 \end{center}
@@ -582,6 +648,14 @@
 \begin{center}
 {\LARGE Intuition}
 \end{center}
+# *Intuitive*
+
+#### [ ɪnˈtuː.ɪ.t̬ɪv]
+
+[ adj ] Based on intuition rather than facts/proof
+
+> *Her **intuitive** sense of direction often helped them find their way.*
+
 # *Intuit*
 
 #### [ ɪn'tuː.ɪt]
@@ -590,13 +664,11 @@
 
 > *She could **intuit** without him having to say a word.*
 
-# *Intuitive*
-
-#### [ ɪnˈtuː.ɪ.t̬ɪv]
-
-[ adj ] Based on intuition rather than facts/proof
-
-> *Her **intuitive** sense of direction often helped them find their way.*
+\newpage
+\begin{center}
+{\LARGE Invest}
+\end{center}
+# *Disinvestment*
 
 
 ---
@@ -610,7 +682,7 @@
 
 [ n ] The process of laminating
 
-> *___ of the kitchen countertops not only adds durability but also enhances their aesthetic appeal.*
+> ***Lamination** of the kitchen countertops not only adds durability but also enhances their aesthetic appeal.*
 
 
 ---
@@ -620,7 +692,17 @@
 \end{center}
 # *Parlay*
 
-\newpage
+
+---
+
+\begin{center}
+{\LARGE Letter}
+\end{center}
+# *Unlettered*
+
+
+---
+
 \begin{center}
 {\LARGE Lip}
 \end{center}
@@ -642,17 +724,15 @@
 
 > *THe company **amassed** a large database of customer information to improve their services.*
 
-
----
-
+\newpage
 \begin{center}
 {\LARGE Mean}
 \end{center}
 # *Misdemeanor*
 
-# *Demeanor*
-
 # *Demean*
+
+# *Demeanor*
 
 
 ---
@@ -678,7 +758,17 @@
 
 # *Polymorphous*
 
-\newpage
+
+---
+
+\begin{center}
+{\LARGE Music}
+\end{center}
+# *Unmusical*
+
+
+---
+
 \begin{center}
 {\LARGE Nose}
 \end{center}
@@ -698,9 +788,7 @@
 \end{center}
 # *Interoperability*
 
-
----
-
+\newpage
 \begin{center}
 {\LARGE Oracle}
 \end{center}
@@ -742,7 +830,9 @@
 
 > *We planned a family **outing** to the beach for this weekend.*
 
-\newpage
+
+---
+
 \begin{center}
 {\LARGE Oxygen}
 \end{center}
@@ -751,6 +841,12 @@
 
 ---
 
+\begin{center}
+{\LARGE Plant}
+\end{center}
+# *Implantable*
+
+\newpage
 \begin{center}
 {\LARGE Platform}
 \end{center}
@@ -761,6 +857,14 @@
 [ v ] Remove / Deny access to a (social media) platform
 
 > *He was **deplatformed** for his toxic behavior.*
+
+
+---
+
+\begin{center}
+{\LARGE Plus}
+\end{center}
+# *Surplus*
 
 
 ---
@@ -834,14 +938,6 @@
 \begin{center}
 {\LARGE Scrutiny}
 \end{center}
-# *Scrutinize*
-
-#### [ 'skruː.t̬ən.aɪz]
-
-[ v ] To examine/inspect closely and carefully
-
-> *The government's record will be closely **scrutinized** in the weeks before the election.*
-
 # *Scrutineer*
 
 #### [ ˌskruː.t̬ən'ɪr]
@@ -849,6 +945,14 @@
 [ n ] The one who counts the votes/recheck the votes in an election
 
 > *The **scrutineer** was inculpated for fraud after an invesgation revealed tampering with the election results.*
+
+# *Scrutinize*
+
+#### [ 'skruː.t̬ən.aɪz]
+
+[ v ] To examine/inspect closely and carefully
+
+> *The government's record will be closely **scrutinized** in the weeks before the election.*
 
 
 ---
@@ -890,10 +994,26 @@
 
 > *Her **silvery** laughter filled the room, bringing smiles to everyone around.*
 
+
+---
+
+\begin{center}
+{\LARGE Step}
+\end{center}
+# *Stepwise*
+
 \newpage
 \begin{center}
 {\LARGE Tact}
 \end{center}
+# *Tactless*
+
+#### [ ˈtækt.ləs]
+
+[ adj ] Not careful about saying/doing sth that could upset sb
+
+> *It was **tactless** of you to invite his ex-girlfriend to his goddamn wedding.*
+
 # *Tactfulness*
 
 #### [ ˈtaktf(ə)lnəs]
@@ -933,14 +1053,6 @@
 > *The manager was **tactful** when addressing the team's concerns, ensuring everyone's opinions were respected.*
 
 > *It wasn't very **tactful** of you to mention his baldness.*
-
-# *Tactless*
-
-#### [ ˈtækt.ləs]
-
-[ adj ] Not careful about saying/doing sth that could upset sb
-
-> *It was **tactless** of you to invite his ex-girlfriend to his goddamn wedding.*
 
 
 ---
@@ -1026,6 +1138,25 @@
 
 > *The house has no **vehicular** access but can be reached by a short walk across the fields.*
 
+
+---
+
+\begin{center}
+{\LARGE View}
+\end{center}
+# *Purview*
+
+
+---
+
+# *Permacrisis*
+
+#### [ ˈpəːməkrʌɪsɪs]
+
+[ n ] A situation characterized by constant & significant turmoil/instability
+
+> *That region is trapped in a state of **permacrisis** (a never-ending period of crisis), perpetually afflicted with instability and insecurity.*
+
 \newpage
 \begin{center}
 {\Huge GROUPED DUMPSTER}
@@ -1039,12 +1170,27 @@
 
 ---
 
+# *Ragged*
+
+
+---
+
 # *Pathology*
 
 [ n ] The scientific study of disease
 
 
 ---
+
+# *Abetment*
+
+#### [ əˈbet.mənt]
+
+[ n ] The act of abetting
+
+> *He was charged with **abetment of fraud** for his role in helping to falsify financial records.*
+
+> *The teacher's **abetment of cheating** by ignoring it during exams led to widespread dishonesty among students.*
 
 # *Abet*
 
@@ -1064,17 +1210,17 @@
 
 > *The court found the accomplice guilty of being an **abettor** to the crime, having provided critical support to the main perpetrator.*
 
-# *Abetment*
-
-#### [ əˈbet.mənt]
-
-[ n ] The act of abetting
-
-> *He was charged with **abetment of fraud** for his role in helping to falsify financial records.*
-
-> *The teacher's **abetment of cheating** by ignoring it during exams led to widespread dishonesty among students.*
-
 \newpage
+# *Abjection*
+
+#### [ æbˈdʒek.ʃən]
+
+[ n ] The state of being abject
+
+> *The actor did a great job in portraying the **abjection** of this most pitiful of characters.*
+
+> *Working-class women led a life of **abjection** and unending toil at that time.*
+
 # *Abject*
 
 #### [ 'æb.dʒekt]
@@ -1091,18 +1237,16 @@
 
 > *Her **abject** apology was filled with tears and desperate pleas for forgiveness.*
 
-# *Abjection*
-
-#### [ æbˈdʒek.ʃən]
-
-[ n ] The state of being abject
-
-> *The actor did a great job in portraying the **abjection** of this most pitiful of characters.*
-
-> *Working-class women led a life of **abjection** and unending toil at that time.*
-
 
 ---
+
+# *Abjure*
+
+#### [ əb'dʒʊr]
+
+[ v ] To renounce/reject formally/solemnly
+
+> *She **abjured** her allegiance to the old regime and pledged loyalty to the new government.*
 
 # *Abjuration*
 
@@ -1113,14 +1257,6 @@
 > *Her **abjuration** of her belief in independence for the country came as a major shock.*
 
 > *After years of dedication to the cause, her sudden **abjuration** left many of her followers feeling betrayed and confused.*
-
-# *Abjure*
-
-#### [ əb'dʒʊr]
-
-[ v ] To renounce/reject formally/solemnly
-
-> *She **abjured** her allegiance to the old regime and pledged loyalty to the new government.*
 
 \newpage
 # *Acute*
@@ -1148,6 +1284,14 @@
 
 ---
 
+# *Alloy*
+
+#### [ 'æl.ɔɪ]
+
+[ n ] A metal made by mixing metals with other substances/metals
+
+> *Brass is an **alloy** of copper and zinc.*
+
 # *Unalloyed*
 
 #### [ ˌʌn.ə'lɔɪd]
@@ -1157,14 +1301,6 @@
 > *We had the perfect holiday - two weeks of **unalloyed** bliss.*
 
 > *The child's laughter was a sound of **unalloyed** joy, pure and untainted by any worries.*
-
-# *Alloy*
-
-#### [ 'æl.ɔɪ]
-
-[ n ] A metal made by mixing metals with other substances/metals
-
-> *Brass is an **alloy** of copper and zinc.*
 
 \newpage
 # *Alluvial*
@@ -1186,16 +1322,6 @@
 
 ---
 
-# *Attestation*
-
-#### [ ˌæt̬.es'teɪ.ʃən]
-
-[ n ] The process of attesting
-
-> *The **attestation** of his identity was required before he could access the secure facility.*
-
-> *The contract needed an official **attestation** to be legally binding.*
-
 # *Attest*
 
 #### [ ə'tɛst]
@@ -1205,6 +1331,16 @@
 > *Witnesses **attested** that he was at the scene of the crime*
 
 > *The number of old German cars still on the road **attests to** the excellence of their manufacture.*
+
+# *Attestation*
+
+#### [ ˌæt̬.es'teɪ.ʃən]
+
+[ n ] The process of attesting
+
+> *The **attestation** of his identity was required before he could access the secure facility.*
+
+> *The contract needed an official **attestation** to be legally binding.*
 
 \newpage
 # *Austere*
@@ -1294,10 +1430,6 @@
 
 #### [ ]
 
-# *Benignity*
-
-#### [ bɪˈ.nɪg.nɪ.ti]
-
 # *Benignant*
 
 #### [ bɪˈnɪɡ.nənt]
@@ -1318,7 +1450,19 @@
 
 > *The biopsy results showed that the tumor was **benign** and not life-threatening.*
 
+# *Benignity*
+
+#### [ bɪˈ.nɪg.nɪ.ti]
+
 \newpage
+# *Clamorous*
+
+#### [ 'klæm.ɚ.əs]
+
+[ adj ] Clamoring
+
+> *The **clamorous** children were difficult to control during the assembly.*
+
 # *Clamor*
 
 #### [ 'klæm.ɚ]
@@ -1328,14 +1472,6 @@
 > *She **clamors** to go home as soon as she gets to school.*
 
 > *The children were all **clamoring** for attention.*
-
-# *Clamorous*
-
-#### [ 'klæm.ɚ.əs]
-
-[ adj ] Clamoring
-
-> *The **clamorous** children were difficult to control during the assembly.*
 
 
 ---
@@ -1392,14 +1528,6 @@
 
 ---
 
-# *Concussion*
-
-#### [ kən'kʌʃ.ən]
-
-[ n ] A brain injury caused by a blow/jolt to the head
-
-> *After the accident, he was diagnosed with a **concussion**.*
-
 # *Concuss*
 
 #### [ kən'kʌs]
@@ -1408,19 +1536,15 @@
 
 > *The player was **concussed** during the game after a hard tackle.*
 
+# *Concussion*
+
+#### [ kən'kʌʃ.ən]
+
+[ n ] A brain injury caused by a blow/jolt to the head
+
+> *After the accident, he was diagnosed with a **concussion**.*
+
 \newpage
-# *Confluence*
-
-#### [ ˈkɑːn.fluː.əns]
-
-[ n ] The quality of being confluent
-
-> *The **confluence** of the two rivers created a powerful current.*
-
-> *The **confluence** of different cultures in the city has led to a unique cultural tapestry.*
-
-> *The conference was a **confluence** of experts from various fields.*
-
 # *Confluent*
 
 #### [ ˈkɑːn.flu.ənt]
@@ -1438,6 +1562,18 @@
 > *In some cases, the blisters merge together into sheets, forming a **confluent** rash.*
 
 > *During development, this cavity becomes **confluent with** the aortic sac.*
+
+# *Confluence*
+
+#### [ ˈkɑːn.fluː.əns]
+
+[ n ] The quality of being confluent
+
+> *The **confluence** of the two rivers created a powerful current.*
+
+> *The **confluence** of different cultures in the city has led to a unique cultural tapestry.*
+
+> *The conference was a **confluence** of experts from various fields.*
 
 
 ---
@@ -1559,6 +1695,24 @@
 > *Myopia is caused by an **elongation** of the eye as it grows.*
 
 \newpage
+# *Encumber*
+
+#### [ ɪn'kʌmbər]
+
+[ v ] To restrict/burden sth, hampering movement
+
+> *Men tennis players aren't **encumbered** with/by high-necked blouses.*
+
+# *Unencumbered*
+
+#### [ ˌʌn.ɪn'kʌm.bɚd]
+
+[ v ] With no encumbrance
+
+> *Traveling light, he moved through the city **unencumbered** by heavy luggage.*
+
+> *Living an **unencumbered** lifestyle, he enjoyed the freedom to pursue his passions without financial worries.*
+
 # *Cumbersome*
 
 #### [ 'kʌm.bɚ.səm]
@@ -1579,41 +1733,7 @@
 
 > *The financial **encumbrance** of student loans made it challenging for her to save for a house.*
 
-# *Encumber*
-
-#### [ ɪn'kʌmbər]
-
-[ v ] To restrict/burden sth, hampering movement
-
-> *Men tennis players aren't **encumbered** with/by high-necked blouses.*
-
-# *Unencumbered*
-
-#### [ ˌʌn.ɪn'kʌm.bɚd]
-
-[ v ] With no encumbrance
-
-> *Traveling light, he moved through the city **unencumbered** by heavy luggage.*
-
-> *Living an **unencumbered** lifestyle, he enjoyed the freedom to pursue his passions without financial worries.*
-
 \newpage
-# *Endorsement*
-
-#### [ ɪnˈdɔːrs.mənt]
-
-[ n ] The act of endorsing
-
-> *The athlete's **endorsement** of the new running shoes significantly boosted sales.*
-
-# *Endorsee*
-
-#### [ endɔːˈsiː]
-
-[ n ] Sb to whom a cheque/bill of exchange is made payable instead of the stated payee
-
-> *The bank had to verify the authenticity of the signature of the **endorsee** before processing the check.*
-
 # *Endorse*
 
 #### [ ɪn'dɔːrs]
@@ -1632,15 +1752,23 @@
 
 > *As an **endorser** of the new tech startup, she has helped raise its profile significantly.*
 
+# *Endorsement*
+
+#### [ ɪnˈdɔːrs.mənt]
+
+[ n ] The act of endorsing
+
+> *The athlete's **endorsement** of the new running shoes significantly boosted sales.*
+
+# *Endorsee*
+
+#### [ endɔːˈsiː]
+
+[ n ] Sb to whom a cheque/bill of exchange is made payable instead of the stated payee
+
+> *The bank had to verify the authenticity of the signature of the **endorsee** before processing the check.*
+
 \newpage
-# *Eulogize*
-
-#### [ 'juː.lə.dʒaɪz]
-
-[ v ] To praise highly in speech/writing (not necessarily about dead people)
-
-> *At the award ceremony, the speaker **eulogized** the achievements of the winner.*
-
 # *Eulogistic*
 
 #### [ ˌjuː.lə'dʒɪs.tɪk]
@@ -1675,6 +1803,14 @@
 
 > *The **eulogists'** words were filled with admiration, painting a vivid picture of the life that was lost.*
 
+# *Eulogize*
+
+#### [ 'juː.lə.dʒaɪz]
+
+[ v ] To praise highly in speech/writing (not necessarily about dead people)
+
+> *At the award ceremony, the speaker **eulogized** the achievements of the winner.*
+
 \newpage
 # *Evocative*
 
@@ -1703,6 +1839,18 @@
 > *The detergent was designed to **evoke** the fresh smell of summer meadows.*
 
 \newpage
+# *Fathom*
+
+#### [ ˈfæð.əm]
+
+[ n ] A unit for measuring water depths (1 fath = 1.8288 m)
+
+[ v ] Comprehend/Understand
+
+> *She couldn't **fathom** why he had left so suddenly.*
+
+> *I still haven't **fathomed out** how to put this bookcase together.*
+
 # *(Un)Fathomable*
 
 #### [ (ʌnˈfæð.ə.mə.bəl) ˈfæð.ə.mə.bəl]
@@ -1727,27 +1875,7 @@
 
 > *She gazed into the **fathomless** depths of his brown eyes.*
 
-# *Fathom*
-
-#### [ ˈfæð.əm]
-
-[ n ] A unit for measuring water depths (1 fath = 1.8288 m)
-
-[ v ] Comprehend/Understand
-
-> *She couldn't **fathom** why he had left so suddenly.*
-
-> *I still haven't **fathomed out** how to put this bookcase together.*
-
 \newpage
-# *Hastiness*
-
-#### [ ˈheɪ.sti.nəs]
-
-[ n ] The quality of saying/doing things in haste
-
-> *His **hastiness** in making decisions often led to mistakes.*
-
 # *Hasty*
 
 #### [ ˈheɪ.sti]
@@ -1788,15 +1916,15 @@
 
 > *From her office on the first floor, she **hastened upstairs** to speak to her boss.*
 
+# *Hastiness*
+
+#### [ ˈheɪ.sti.nəs]
+
+[ n ] The quality of saying/doing things in haste
+
+> *His **hastiness** in making decisions often led to mistakes.*
+
 \newpage
-# *Hermit*
-
-#### [ 'hɝː.mɪt]
-
-[ n ] Sb who chooses to live in solitude for various reasons
-
-> *The old **hermit** lived alove in a secluded cabin in the woods.*
-
 # *Hermitage*
 
 #### [ 'hɝː.mɪ.t̬ɪdʒ]
@@ -1804,6 +1932,14 @@
 [ n ] The dwelling of a hermit
 
 > *She visited the **hermitage** to experience the peace and solitude it brings.*
+
+# *Hermit*
+
+#### [ 'hɝː.mɪt]
+
+[ n ] Sb who chooses to live in solitude for various reasons
+
+> *The old **hermit** lived alove in a secluded cabin in the woods.*
 
 
 ---
@@ -1867,14 +2003,6 @@
 > *If the evidence for and against the defendant's guilt is **in equipoise**, then the burden of proof is on the prosecution.*
 
 \newpage
-# *Mesmerist*
-
-#### [ 'mez.mər.ɪst]
-
-[ n ] Sb who mesmerizes
-
-> *The **mesmerist** performed a series of hypnotic inductions, fascinating the audience with his skills.*
-
 # *Mesmerize*
 
 #### [ 'mez.mə.raɪz]
@@ -1891,18 +2019,16 @@
 
 > *In literature, characters who possess a magnetic or hypnotic charm often evoke the concept of **mesmerism**.*
 
+# *Mesmerist*
+
+#### [ 'mez.mər.ɪst]
+
+[ n ] Sb who mesmerizes
+
+> *The **mesmerist** performed a series of hypnotic inductions, fascinating the audience with his skills.*
+
 
 ---
-
-# *Meticulous*
-
-#### [ məˈtɪk.jə.ləs]
-
-[ adj ] Very careful with great attention to detail
-
-> *Many hours of **meticulous** preparation have gone into writing the book.*
-
-> *The artist's **meticulous** brushstrokes brought the portrait to life with incredible realism.*
 
 # *Meticulousness*
 
@@ -1913,6 +2039,16 @@
 > *He was known for the quality of his observation and the **meticulousness** of his technique.*
 
 > *Her **meticulousness** in her work ensures that every project is completed to the highest standard.*
+
+# *Meticulous*
+
+#### [ məˈtɪk.jə.ləs]
+
+[ adj ] Very careful with great attention to detail
+
+> *Many hours of **meticulous** preparation have gone into writing the book.*
+
+> *The artist's **meticulous** brushstrokes brought the portrait to life with incredible realism.*
 
 \newpage
 \begin{center}
@@ -1952,6 +2088,14 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 > *His **odious** remarks during the meeting offended everyone present.*
 
 \newpage
+# *Plaintive*
+
+#### [ ˈpleɪn.t̬ɪv]
+
+[ adj ] Slightly sad
+
+> *The **plaintive** tone of the song resonated deeply with those who had experienced heartbreak.*
+
 # *Plaintiff*
 
 #### [ ˈpleɪn.t̬ɪf]
@@ -1971,14 +2115,6 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 [ n [literary] ] A complaint/lamentation
 
 > *The **plaint** of the widow moved everyone at the memorial service to tears.*
-
-# *Plaintive*
-
-#### [ ˈpleɪn.t̬ɪv]
-
-[ adj ] Slightly sad
-
-> *The **plaintive** tone of the song resonated deeply with those who had experienced heartbreak.*
 
 
 ---
@@ -2004,16 +2140,6 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 > *He's well-known for his natural **propensity** for indiscretion.*
 
 \newpage
-# *Punctiliousness*
-
-#### [ pʌŋkˈtɪl.i.əs.nəs]
-
-[ n ] The quality of being punctilious
-
-> *The manager's **punctiliousness** in reviewing each report ensured that no errors were overlooked.*
-
-> *Her **punctiliousness** in following etiquette made her a model guest at every formal event.*
-
 # *Punctilious*
 
 #### [ pʌŋkˈtɪl.i.əs]
@@ -2024,26 +2150,18 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 
 > *The event coordinator was **punctilious** in arranging every aspect of the gala, ensuring everything was perfect.*
 
+# *Punctiliousness*
+
+#### [ pʌŋkˈtɪl.i.əs.nəs]
+
+[ n ] The quality of being punctilious
+
+> *The manager's **punctiliousness** in reviewing each report ensured that no errors were overlooked.*
+
+> *Her **punctiliousness** in following etiquette made her a model guest at every formal event.*
+
 
 ---
-
-# *Rashness*
-
-#### [ ˈræʃ.nəs]
-
-[ n ] The quality of being rash
-
-> *In a moment of **rashness**, I agreed to go skydiving for charity.*
-
-> *Her **rashness** often put her in difficult situations, as she rarely thought through her actions.*
-
-# *Rashly*
-
-#### [ ˈræʃ.li]
-
-[ adv ] In a rash way
-
-> *He **rashly** decided to invest all his savings in the risky venture.*
 
 # *Rash*
 
@@ -2067,6 +2185,24 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 
 > *Following the CEO's resignation, there was **a rash of** employee departures from the company.*
 
+# *Rashness*
+
+#### [ ˈræʃ.nəs]
+
+[ n ] The quality of being rash
+
+> *In a moment of **rashness**, I agreed to go skydiving for charity.*
+
+> *Her **rashness** often put her in difficult situations, as she rarely thought through her actions.*
+
+# *Rashly*
+
+#### [ ˈræʃ.li]
+
+[ adv ] In a rash way
+
+> *He **rashly** decided to invest all his savings in the risky venture.*
+
 \newpage
 # *Reclusive*
 
@@ -2087,6 +2223,8 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 
 ---
 
+# *Irreconcilable*
+
 # *Reconcile*
 
 #### [ 'rɛ.kən.saɪl]
@@ -2096,16 +2234,6 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 > *The siblings managed to **reconcile** their differences and become close again.*
 
 \newpage
-# *Revere*
-
-#### [ rɪ'vɪr]
-
-[ v ] To respect/admire sb deeply
-
-> *Nelson Mandela is **revered** for his brave fight against apartheid.*
-
-> *In many cultures, children are taught to **revere** their elders and ancestors.*
-
 # *Reverent*
 
 #### [ 'rev.ɚ.ənt]
@@ -2133,6 +2261,16 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 > *She expressed deep **reverence** for the traditions passed down through generations.*
 
 > *His **reverence** for nature was evident in the way he carefully tended his garden.*
+
+# *Revere*
+
+#### [ rɪ'vɪr]
+
+[ v ] To respect/admire sb deeply
+
+> *Nelson Mandela is **revered** for his brave fight against apartheid.*
+
+> *In many cultures, children are taught to **revere** their elders and ancestors.*
 
 
 ---
@@ -2214,16 +2352,6 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 > *I really don't think it's a politician's job to go delivering **sermons** on public morality.*
 
 \newpage
-# *Subdivide*
-
-#### [ ˌsʌb.dɪˈvaɪd]
-
-[ v ] To divide sth that's already divided
-
-> *The heading was **subdivided** into eight separate sections.*
-
-> *The report was **divided** into main sections and then **subdivided** into more detailed subsections.*
-
 # *Subdivision*
 
 #### [ ˌsʌb.dɪˈvɪʒ.ən]
@@ -2235,6 +2363,16 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 [ n ] [Real estate] A land containing homes built at about the same time
 
 > *The new housing **subdivision** will have over 69 homes and several parks.*
+
+# *Subdivide*
+
+#### [ ˌsʌb.dɪˈvaɪd]
+
+[ v ] To divide sth that's already divided
+
+> *The heading was **subdivided** into eight separate sections.*
+
+> *The report was **divided** into main sections and then **subdivided** into more detailed subsections.*
 
 
 ---
@@ -2312,16 +2450,6 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 > *Many rural families rely on **subsistence** farming to provide for their basic needs.*
 
 \newpage
-# *Urbanity*
-
-#### [ ɝːˈbæn.ə.t̬i]
-
-[ n ] The quality of being urbane
-
-> *She admired his **urbanity**, noting how effortlessly he blended into the sophisticated circles of the city.*
-
-> *Despite his rugged appearance, his **urbanity** shone through in his courteous behavior and sophisticated speech.*
-
 # *Urbane*
 
 #### [ ɜr'beɪn]
@@ -2331,6 +2459,16 @@ Same as "Would rather" but with a weaker preference, can even be used to indicat
 > *Their **urbane** lifestyle included attending exclusive events and dining at the finest restaurants.*
 
 > *The diplomat was known for his **urbane** demeanor and ability to navigate delicate situations with grace.*
+
+# *Urbanity*
+
+#### [ ɝːˈbæn.ə.t̬i]
+
+[ n ] The quality of being urbane
+
+> *She admired his **urbanity**, noting how effortlessly he blended into the sophisticated circles of the city.*
+
+> *Despite his rugged appearance, his **urbanity** shone through in his courteous behavior and sophisticated speech.*
 
 
 ---
