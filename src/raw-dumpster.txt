@@ -2009,7 +2009,9 @@ WORD\ Bedizen
 WORD\ Clobber
 WORD\ Thrash
 WORD\ Drub
-WORD\ 
+WORD\ Nascent
+WORD\ Recant
+WORD\ Haphazard
 WORD\ 
 WORD\ 
 WORD\ 
