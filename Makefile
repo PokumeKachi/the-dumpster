@@ -1,6 +1,5 @@
-PHONY_TARGETS := compile git todo flake-develop
+PHONY_TARGETS := compile git todo flake-develop view
 .PHONY: $(PHONY_TARGETS)
-
 
 all:
 	@printf '%s\n' $(PHONY_TARGETS) | fzf | xargs -r make
@@ -27,10 +26,11 @@ compile: flake-develop
 		-V geometry:margin=1cm \
 		-V fontsize=8pt
 
+view:
+	zathura build/the-dumpster.pdf & disown
+
 git:
-	git add .
-	git commit
-	git push
+	gitui
 
 todo:
 	taskwarrior-tui --taskdata .tasks
