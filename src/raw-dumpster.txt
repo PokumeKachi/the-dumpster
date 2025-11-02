@@ -661,6 +661,8 @@ WORD\ Disarmament
 WORD\ Prominent
 WORD\ Eminent
 WORD\ Antiquate
+WORD\ Antique
+WORD\ Antiquity
 WORD\ Dubious
 WORD\ Woe
 WORD\ Plantation
@@ -1379,6 +1381,7 @@ WORD\ Civic
 WORD\ Lam
 WORD\ Sway
 WORD\ Effectual
+WORD\ Ineffectual
 WORD\ Sanctimonious
 WORD\ Sanction
 WORD\ Decree
@@ -1998,6 +2001,52 @@ WORD\ Olde
 WORD\ Outré
 WORD\ Idiosyncratic
 WORD\ Twee
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ Stymie
+WORD\ Outstrip
+WORD\ Renounce
+WORD\ Misanthropic
+WORD\ Latent
+WORD\ Proclaim
+WORD\ Intricate
+WORD\ Ornament
+WORD\ Secretive
+WORD\ Pristine
+WORD\ Mint
+WORD\ Veritable
+WORD\ Notional
+WORD\ Desultory
+WORD\ Demarcate
+WORD\ Conflate
+WORD\ Arduous
+WORD\ Rectify
+WORD\ Maraude
+WORD\ Esteem
 WORD\ Toytown
 WORD\ Arty-crafty
 WORD\ Zany
@@ -2014,31 +2063,6 @@ WORD\ Bedizen
 WORD\ Clobber
 WORD\ Thrash
 WORD\ Drub
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
 WORD\ Oddity
 WORD\ Redress
 WORD\ Scrutinize
@@ -2310,6 +2334,7 @@ WORD\ Exterior
 WORD\ Interior
 WORD\ Ulterior
 WORD\ Anterior
+WORD\ Posterier 
 WORD\ Cabal
 WORD\ Juncture
 WORD\ Calamity
@@ -2545,6 +2570,7 @@ WORD\ Conjecture
 WORD\ Epilogue
 WORD\ Cordial
 WORD\ Constitute
+WORD\ Reconstitute
 WORD\ Institute
 WORD\ Constituency
 WORD\ Arrhythmia
@@ -2656,6 +2682,7 @@ WORD\ Premier
 WORD\ Jovial
 
 # TO DO ABOVE
+
 
 
 WORD\ Implore
