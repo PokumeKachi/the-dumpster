@@ -3,10 +3,16 @@
 
 # (FAMILIAL / MONO / THE / GROUPED / LOAN)
 
-# GR\ Group
-# GR*\ Group (Show the group name)
+# FAMILIAL: Groups of word that share the same root/word family
+# GROUPED: Groups of word that have something in common
+# MONO: Monosyllabic words
+# LOAN: Words that are not English/do not feel like English/will never be English
+# THE: The dumpster (The rest of them)
+
+# GR\ Group (Group name not shown)
+# GR*\ Group (Group name shown)
 # IPA\ Phonetics
-# DEF\Type\ Definition 
+# DEF\Type\ Definition
 # EX\ Example.
 
 WORD\ Jagged
@@ -659,7 +665,6 @@ WORD\ Dubious
 WORD\ Woe
 WORD\ Plantation
 WORD\ Unspaced
-WORD\ Tentative
 WORD\ Overture
 WORD\ Vet
 WORD\ Acclimatization
@@ -2009,29 +2014,56 @@ WORD\ Bedizen
 WORD\ Clobber
 WORD\ Thrash
 WORD\ Drub
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ 
+WORD\ Oddity
+WORD\ Redress
+WORD\ Scrutinize
+WORD\ Contentious
+WORD\ Tenuous
+WORD\ Inasmuch
+WORD\ Inconsequential
 WORD\ Nascent
 WORD\ Recant
 WORD\ Haphazard
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
-WORD\ 
+WORD\ Vapid
+WORD\ Listless
+WORD\ Anon
+WORD\ Aggravate
+WORD\ Premeditate
+WORD\ Surmise
+WORD\ Lackadaisical
+WORD\ Postulate
+WORD\ Ameliorate
+WORD\ Protuberant
+WORD\ Antecedent
+WORD\ Overt
+WORD\ Annotate
+WORD\ Buttress
+WORD\ Disengage
 WORD\ Du jour
 WORD\ Regale
 WORD\ Post-mortem
@@ -2374,6 +2406,7 @@ WORD\ Hackles
 WORD\ Nip
 WORD\ Flank
 WORD\ Rebuttal
+WORD\ Rebut
 WORD\ Lodge
 WORD\ Bask
 WORD\ Macular
