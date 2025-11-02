@@ -8,9 +8,25 @@
         let
             system = "x86_64-linux";
             pkgs = import nixpkgs { inherit system; };
+
+            tex = pkgs.texlive.combine {
+                inherit (pkgs.texlive)
+                    scheme-small
+                    xetex
+                    xecjk
+                    xcolor
+                    fontspec
+                    unicode-math
+                    noto
+                    ;
+            };
             buildInputs = with pkgs; [
+
+                # texlive.combined.scheme-small
+                # texlive.noto
+                zathura
                 pandoc
-                texlivePackages.xelatex-dev
+                tex
             ];
         in
         {
@@ -22,6 +38,7 @@
 
                 shellHook = ''
                     export LD_LIBRARY_PATH=${pkgs.lib.makeLibraryPath buildInputs}:$LD_LIBRARY_PATH
+                    export SHELL=/run/current-system/sw/bin/bash
                 '';
             };
         };
