@@ -464,7 +464,6 @@ WORD\ Dire
 WORD\ Trite
 WORD\ Poultry
 WORD\ Fleet
-WORD\ Alacrity
 WORD\ Sordid
 WORD\ Spick
 WORD\ Span
@@ -1139,7 +1138,6 @@ WORD\ Insatiable
 WORD\ Keepsake
 WORD\ Denude
 WORD\ Chronology
-WORD\ Anachronistic
 WORD\ Laborious
 WORD\ Desensitize
 WORD\ Contempt
@@ -2027,26 +2025,6 @@ WORD\
 WORD\ 
 WORD\ 
 WORD\ 
-WORD\ Stymie
-WORD\ Outstrip
-WORD\ Renounce
-WORD\ Misanthropic
-WORD\ Latent
-WORD\ Proclaim
-WORD\ Intricate
-WORD\ Ornament
-WORD\ Secretive
-WORD\ Pristine
-WORD\ Mint
-WORD\ Veritable
-WORD\ Notional
-WORD\ Desultory
-WORD\ Demarcate
-WORD\ Conflate
-WORD\ Arduous
-WORD\ Rectify
-WORD\ Maraude
-WORD\ Esteem
 WORD\ Toytown
 WORD\ Arty-crafty
 WORD\ Zany
@@ -2056,37 +2034,6 @@ WORD\ Imminent
 WORD\ Impend
 WORD\ Bedeck
 WORD\ Embellish
-WORD\ Adorn
-WORD\ Festoon
-WORD\ Caparison
-WORD\ Bedizen
-WORD\ Clobber
-WORD\ Thrash
-WORD\ Drub
-WORD\ Oddity
-WORD\ Redress
-WORD\ Scrutinize
-WORD\ Contentious
-WORD\ Tenuous
-WORD\ Inasmuch
-WORD\ Inconsequential
-WORD\ Nascent
-WORD\ Recant
-WORD\ Haphazard
-WORD\ Vapid
-WORD\ Listless
-WORD\ Anon
-WORD\ Aggravate
-WORD\ Premeditate
-WORD\ Surmise
-WORD\ Lackadaisical
-WORD\ Postulate
-WORD\ Ameliorate
-WORD\ Protuberant
-WORD\ Antecedent
-WORD\ Overt
-WORD\ Annotate
-WORD\ Buttress
 WORD\ Disengage
 WORD\ Du jour
 WORD\ Regale
@@ -2223,7 +2170,6 @@ WORD\ Sorghum
 WORD\ Fellate
 WORD\ Nullity
 WORD\ Tremendous
-WORD\ Adulate
 WORD\ Sanctify
 WORD\ Bequeath
 WORD\ Graze
@@ -2384,6 +2330,7 @@ WORD\ Rot
 WORD\ Liberality
 WORD\ Magnificence
 WORD\ Munificence
+WORD\ Munificent
 WORD\ Formulate
 WORD\ Imminent
 WORD\ Leatherette
@@ -2677,13 +2624,103 @@ WORD\ Crumple
 WORD\ Commerce
 WORD\ Crustal
 WORD\ Pedant
-WORD\ Controvert
-WORD\ Premier
-WORD\ Jovial
 
 # TO DO ABOVE
 
+WORD\ Stymie
+WORD\ Outstrip
+WORD\ Renounce
+WORD\ Misanthropic
+WORD\ Latent
+WORD\ Proclaim
+WORD\ Adorn
+WORD\ Festoon
+WORD\ Caparison
+WORD\ Bedizen
+WORD\ Clobber
+WORD\ Thrash
+WORD\ Drub
+WORD\ Oddity
+WORD\ Redress
+WORD\ Scrutinize
+WORD\ Contentious
+WORD\ Tenuous
+WORD\ Inasmuch
+WORD\ Inconsequential
+WORD\ Nascent
+WORD\ Recant
+WORD\ Haphazard
+WORD\ Vapid
+WORD\ Listless
+WORD\ Anon
+WORD\ Aggravate
+WORD\ Premeditate
+WORD\ Surmise
+WORD\ Lackadaisical
+WORD\ Postulate
+WORD\ Ameliorate
+WORD\ Protuberant
+WORD\ Antecedent
+WORD\ Overt
+WORD\ Annotate
+WORD\ Buttress
+WORD\ Intricate
+WORD\ Ornament
+WORD\ Secretive
+WORD\ Pristine
+WORD\ Mint
+WORD\ Veritable
+WORD\ Notional
+WORD\ Desultory
+WORD\ Demarcate
+WORD\ Conflate
+WORD\ Arduous
+WORD\ Rectify
+WORD\ Maraude
+WORD\ Burgeon
+WORD\ Antedate
+WORD\ Anathema
+WORD\ Zephyr
+WORD\ Winsome
+WORD\ Transigent
+WORD\ Laconic
+WORD\ Mendacious
+WORD\ Abstruse
+WORD\ Accolade
+WORD\ Acerbic
+WORD\ Adulate
+WORD\ Alacrity
+WORD\ Anachronistic
+WORD\ Antediluvian
 
+WORD\ Esteem
+SEC\ THE
+IPA\ ɪˈstiːm
+DEF\n/v\ Respect
+EX\ There has been a drop in *esteem* for teachers
+EX\ Her work is highly *esteemed* by all of her colleagues.
+
+WORD\ Controvert
+SEC\ THE
+IPA\ ˌkɒn.trəˈvɜːt
+DEF\v\ To prove that something is not true
+EX\ The phrase "God is dead" is used to *controvert* the concept of an omnipotent being.
+
+WORD\ Premier
+SEC\ THE
+IPA\ prɪˈmɪr
+DEF\n\ (Used in news reports) Prime minister/The leader of a country
+EX\ The French *premier* has recently announced new economic reforms.
+DEF\adj\ Best/Prominent
+EX\ He is one the nation's *premier* scientists.
+
+WORD\ Jovial
+SEC\ THE
+IPA\ ˈjōvēəl
+DEF\adj\ (Of a person) Friendly and in a good mood
+EX\ The *jovial* fellow served us a warm cup of tea with a big smile on his charming face.
+DEF\adj\ (Of a situation) Enjoyable and pleasant
+EX\ He took subtle sips of his latte as he breezed through the *jovial* morning.
 
 WORD\ Implore
 SEC\ THE
