@@ -1,11 +1,11 @@
-PHONY_TARGETS := compile git todo flake-develop view
+PHONY_TARGETS := compile view
 .PHONY: $(PHONY_TARGETS)
 
 all:
 	@printf '%s\n' $(PHONY_TARGETS) | fzf | xargs -r make
 
 compile:
-	# luajit src/parser.lua > build/the-dumpster.md
+	mkdir -p build/
 	luajit src/parser.lua --no-table > /tmp/the-dumpster-pdf.md
 	pandoc /tmp/the-dumpster-pdf.md \
 		-f markdown -t pdf \
@@ -18,9 +18,3 @@ compile:
 
 view:
 	zathura build/the-dumpster.pdf & disown
-
-git:
-	gitui
-
-todo:
-	taskwarrior-tui --taskdata .tasks
